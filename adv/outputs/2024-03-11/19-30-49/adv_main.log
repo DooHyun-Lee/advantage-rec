@@ -1,0 +1,44 @@
+[2024-03-11 19:30:54,192][train][INFO] - epoch: 0 || adv_avg_loss: 0.6346 |cl_avg_loss: 108.4442 | tot_avg_loss: 0.6346 |
+[2024-03-11 19:30:59,867][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:30:59,867][train][INFO] - HIT@5: 0.0048|  NDCG@5: 0.0026| HIT@10: 0.0105|  NDCG@10: 0.0044| HIT@20: 0.0258|  NDCG@20: 0.0082
+[2024-03-11 19:30:59,875][train][INFO] - saving model after new best score: 0.0082
+[2024-03-11 19:31:02,994][train][INFO] - epoch: 1 || adv_avg_loss: 0.4986 |cl_avg_loss: 94.8623 | tot_avg_loss: 0.4986 |
+[2024-03-11 19:31:08,493][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:31:08,493][train][INFO] - HIT@5: 0.0071|  NDCG@5: 0.0039| HIT@10: 0.0153|  NDCG@10: 0.0066| HIT@20: 0.0319|  NDCG@20: 0.0107
+[2024-03-11 19:31:08,501][train][INFO] - saving model after new best score: 0.0107
+[2024-03-11 19:31:11,574][train][INFO] - epoch: 2 || adv_avg_loss: 0.4573 |cl_avg_loss: 152.8907 | tot_avg_loss: 0.4573 |
+[2024-03-11 19:31:17,189][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:31:17,189][train][INFO] - HIT@5: 0.0074|  NDCG@5: 0.0046| HIT@10: 0.0168|  NDCG@10: 0.0076| HIT@20: 0.0336|  NDCG@20: 0.0117
+[2024-03-11 19:31:17,197][train][INFO] - saving model after new best score: 0.0117
+[2024-03-11 19:31:20,297][train][INFO] - epoch: 3 || adv_avg_loss: 0.4165 |cl_avg_loss: 202.7617 | tot_avg_loss: 0.4165 |
+[2024-03-11 19:31:26,007][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:31:26,007][train][INFO] - HIT@5: 0.0072|  NDCG@5: 0.0040| HIT@10: 0.0169|  NDCG@10: 0.0071| HIT@20: 0.0383|  NDCG@20: 0.0125
+[2024-03-11 19:31:26,015][train][INFO] - saving model after new best score: 0.0125
+[2024-03-11 19:31:29,118][train][INFO] - epoch: 4 || adv_avg_loss: 0.3794 |cl_avg_loss: 240.0298 | tot_avg_loss: 0.3794 |
+[2024-03-11 19:31:34,758][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:31:34,758][train][INFO] - HIT@5: 0.0084|  NDCG@5: 0.0048| HIT@10: 0.0189|  NDCG@10: 0.0081| HIT@20: 0.0434|  NDCG@20: 0.0142
+[2024-03-11 19:31:34,766][train][INFO] - saving model after new best score: 0.0142
+[2024-03-11 19:31:37,898][train][INFO] - epoch: 5 || adv_avg_loss: 0.3498 |cl_avg_loss: 285.1770 | tot_avg_loss: 0.3498 |
+[2024-03-11 19:31:43,575][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:31:43,575][train][INFO] - HIT@5: 0.0093|  NDCG@5: 0.0053| HIT@10: 0.0206|  NDCG@10: 0.0089| HIT@20: 0.0478|  NDCG@20: 0.0157
+[2024-03-11 19:31:43,583][train][INFO] - saving model after new best score: 0.0157
+[2024-03-11 19:31:46,685][train][INFO] - epoch: 6 || adv_avg_loss: 0.3198 |cl_avg_loss: 313.6549 | tot_avg_loss: 0.3198 |
+[2024-03-11 19:31:52,461][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:31:52,461][train][INFO] - HIT@5: 0.0118|  NDCG@5: 0.0066| HIT@10: 0.0268|  NDCG@10: 0.0114| HIT@20: 0.0601|  NDCG@20: 0.0197
+[2024-03-11 19:31:52,469][train][INFO] - saving model after new best score: 0.0197
+[2024-03-11 19:31:55,604][train][INFO] - epoch: 7 || adv_avg_loss: 0.2957 |cl_avg_loss: 352.9427 | tot_avg_loss: 0.2957 |
+[2024-03-11 19:32:01,371][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:32:01,371][train][INFO] - HIT@5: 0.0118|  NDCG@5: 0.0068| HIT@10: 0.0285|  NDCG@10: 0.0120| HIT@20: 0.0651|  NDCG@20: 0.0212
+[2024-03-11 19:32:01,378][train][INFO] - saving model after new best score: 0.0212
+[2024-03-11 19:32:04,480][train][INFO] - epoch: 8 || adv_avg_loss: 0.2721 |cl_avg_loss: 392.7499 | tot_avg_loss: 0.2721 |
+[2024-03-11 19:32:10,239][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:32:10,239][train][INFO] - HIT@5: 0.0147|  NDCG@5: 0.0083| HIT@10: 0.0322|  NDCG@10: 0.0138| HIT@20: 0.0739|  NDCG@20: 0.0242
+[2024-03-11 19:32:10,247][train][INFO] - saving model after new best score: 0.0242
+[2024-03-11 19:32:13,368][train][INFO] - epoch: 9 || adv_avg_loss: 0.2515 |cl_avg_loss: 433.9700 | tot_avg_loss: 0.2515 |
+[2024-03-11 19:32:19,065][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:32:19,065][train][INFO] - HIT@5: 0.0130|  NDCG@5: 0.0072| HIT@10: 0.0331|  NDCG@10: 0.0136| HIT@20: 0.0757|  NDCG@20: 0.0242
+[2024-03-11 19:32:19,065][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:32:22,168][train][INFO] - epoch: 10 || adv_avg_loss: 0.2351 |cl_avg_loss: 472.1929 | tot_avg_loss: 0.2351 |
+[2024-03-11 19:32:27,773][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:32:27,773][train][INFO] - HIT@5: 0.0155|  NDCG@5: 0.0089| HIT@10: 0.0347|  NDCG@10: 0.0150| HIT@20: 0.0790|  NDCG@20: 0.0260
+[2024-03-11 19:32:27,783][train][INFO] - saving model after new best score: 0.0260

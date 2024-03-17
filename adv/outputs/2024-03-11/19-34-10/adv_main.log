@@ -1,0 +1,1158 @@
+[2024-03-11 19:34:16,191][train][INFO] - epoch: 0 || adv_avg_loss: 0.6577 |cl_avg_loss: 45.0929 | tot_avg_loss: 5.1670 |
+[2024-03-11 19:34:21,642][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:34:21,642][train][INFO] - HIT@5: 0.0020|  NDCG@5: 0.0012| HIT@10: 0.0033|  NDCG@10: 0.0016| HIT@20: 0.0063|  NDCG@20: 0.0024
+[2024-03-11 19:34:21,650][train][INFO] - saving model after new best score: 0.0024
+[2024-03-11 19:34:25,590][train][INFO] - epoch: 1 || adv_avg_loss: 0.5935 |cl_avg_loss: 21.7372 | tot_avg_loss: 2.7672 |
+[2024-03-11 19:34:30,980][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:34:30,980][train][INFO] - HIT@5: 0.0020|  NDCG@5: 0.0010| HIT@10: 0.0044|  NDCG@10: 0.0017| HIT@20: 0.0093|  NDCG@20: 0.0030
+[2024-03-11 19:34:30,988][train][INFO] - saving model after new best score: 0.0030
+[2024-03-11 19:34:34,956][train][INFO] - epoch: 2 || adv_avg_loss: 0.5634 |cl_avg_loss: 14.9351 | tot_avg_loss: 2.0569 |
+[2024-03-11 19:34:40,216][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:34:40,216][train][INFO] - HIT@5: 0.0025|  NDCG@5: 0.0014| HIT@10: 0.0054|  NDCG@10: 0.0023| HIT@20: 0.0110|  NDCG@20: 0.0037
+[2024-03-11 19:34:40,224][train][INFO] - saving model after new best score: 0.0037
+[2024-03-11 19:34:44,164][train][INFO] - epoch: 3 || adv_avg_loss: 0.5446 |cl_avg_loss: 11.0547 | tot_avg_loss: 1.6501 |
+[2024-03-11 19:34:49,393][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:34:49,393][train][INFO] - HIT@5: 0.0026|  NDCG@5: 0.0016| HIT@10: 0.0060|  NDCG@10: 0.0027| HIT@20: 0.0136|  NDCG@20: 0.0046
+[2024-03-11 19:34:49,400][train][INFO] - saving model after new best score: 0.0046
+[2024-03-11 19:34:53,349][train][INFO] - epoch: 4 || adv_avg_loss: 0.5306 |cl_avg_loss: 8.9552 | tot_avg_loss: 1.4261 |
+[2024-03-11 19:34:58,509][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:34:58,509][train][INFO] - HIT@5: 0.0028|  NDCG@5: 0.0016| HIT@10: 0.0069|  NDCG@10: 0.0029| HIT@20: 0.0148|  NDCG@20: 0.0049
+[2024-03-11 19:34:58,517][train][INFO] - saving model after new best score: 0.0049
+[2024-03-11 19:35:02,462][train][INFO] - epoch: 5 || adv_avg_loss: 0.5228 |cl_avg_loss: 7.8924 | tot_avg_loss: 1.3120 |
+[2024-03-11 19:35:07,633][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:35:07,633][train][INFO] - HIT@5: 0.0026|  NDCG@5: 0.0016| HIT@10: 0.0063|  NDCG@10: 0.0028| HIT@20: 0.0152|  NDCG@20: 0.0050
+[2024-03-11 19:35:07,643][train][INFO] - saving model after new best score: 0.0050
+[2024-03-11 19:35:11,613][train][INFO] - epoch: 6 || adv_avg_loss: 0.5118 |cl_avg_loss: 7.2152 | tot_avg_loss: 1.2333 |
+[2024-03-11 19:35:16,931][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:35:16,931][train][INFO] - HIT@5: 0.0030|  NDCG@5: 0.0018| HIT@10: 0.0068|  NDCG@10: 0.0030| HIT@20: 0.0159|  NDCG@20: 0.0053
+[2024-03-11 19:35:16,940][train][INFO] - saving model after new best score: 0.0053
+[2024-03-11 19:35:20,903][train][INFO] - epoch: 7 || adv_avg_loss: 0.5053 |cl_avg_loss: 6.7710 | tot_avg_loss: 1.1824 |
+[2024-03-11 19:35:26,246][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:35:26,246][train][INFO] - HIT@5: 0.0036|  NDCG@5: 0.0022| HIT@10: 0.0080|  NDCG@10: 0.0036| HIT@20: 0.0180|  NDCG@20: 0.0061
+[2024-03-11 19:35:26,254][train][INFO] - saving model after new best score: 0.0061
+[2024-03-11 19:35:30,231][train][INFO] - epoch: 8 || adv_avg_loss: 0.4991 |cl_avg_loss: 6.4050 | tot_avg_loss: 1.1396 |
+[2024-03-11 19:35:35,610][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:35:35,610][train][INFO] - HIT@5: 0.0032|  NDCG@5: 0.0017| HIT@10: 0.0083|  NDCG@10: 0.0033| HIT@20: 0.0194|  NDCG@20: 0.0061
+[2024-03-11 19:35:35,610][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:35:39,581][train][INFO] - epoch: 9 || adv_avg_loss: 0.4954 |cl_avg_loss: 6.1378 | tot_avg_loss: 1.1092 |
+[2024-03-11 19:35:44,884][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:35:44,885][train][INFO] - HIT@5: 0.0037|  NDCG@5: 0.0022| HIT@10: 0.0091|  NDCG@10: 0.0039| HIT@20: 0.0205|  NDCG@20: 0.0068
+[2024-03-11 19:35:44,892][train][INFO] - saving model after new best score: 0.0068
+[2024-03-11 19:35:48,879][train][INFO] - epoch: 10 || adv_avg_loss: 0.4902 |cl_avg_loss: 5.9031 | tot_avg_loss: 1.0806 |
+[2024-03-11 19:35:54,145][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:35:54,145][train][INFO] - HIT@5: 0.0038|  NDCG@5: 0.0020| HIT@10: 0.0095|  NDCG@10: 0.0037| HIT@20: 0.0206|  NDCG@20: 0.0065
+[2024-03-11 19:35:54,145][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:35:58,115][train][INFO] - epoch: 11 || adv_avg_loss: 0.4868 |cl_avg_loss: 5.7142 | tot_avg_loss: 1.0582 |
+[2024-03-11 19:36:03,379][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:36:03,379][train][INFO] - HIT@5: 0.0045|  NDCG@5: 0.0026| HIT@10: 0.0100|  NDCG@10: 0.0043| HIT@20: 0.0214|  NDCG@20: 0.0071
+[2024-03-11 19:36:03,387][train][INFO] - saving model after new best score: 0.0071
+[2024-03-11 19:36:07,356][train][INFO] - epoch: 12 || adv_avg_loss: 0.4842 |cl_avg_loss: 5.5207 | tot_avg_loss: 1.0362 |
+[2024-03-11 19:36:12,590][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:36:12,590][train][INFO] - HIT@5: 0.0055|  NDCG@5: 0.0031| HIT@10: 0.0106|  NDCG@10: 0.0048| HIT@20: 0.0226|  NDCG@20: 0.0077
+[2024-03-11 19:36:12,601][train][INFO] - saving model after new best score: 0.0077
+[2024-03-11 19:36:16,567][train][INFO] - epoch: 13 || adv_avg_loss: 0.4805 |cl_avg_loss: 5.3863 | tot_avg_loss: 1.0191 |
+[2024-03-11 19:36:21,745][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:36:21,745][train][INFO] - HIT@5: 0.0058|  NDCG@5: 0.0032| HIT@10: 0.0125|  NDCG@10: 0.0054| HIT@20: 0.0236|  NDCG@20: 0.0082
+[2024-03-11 19:36:21,753][train][INFO] - saving model after new best score: 0.0082
+[2024-03-11 19:36:25,743][train][INFO] - epoch: 14 || adv_avg_loss: 0.4770 |cl_avg_loss: 5.2293 | tot_avg_loss: 0.9999 |
+[2024-03-11 19:36:30,986][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:36:30,986][train][INFO] - HIT@5: 0.0053|  NDCG@5: 0.0031| HIT@10: 0.0109|  NDCG@10: 0.0049| HIT@20: 0.0236|  NDCG@20: 0.0080
+[2024-03-11 19:36:30,986][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:36:34,951][train][INFO] - epoch: 15 || adv_avg_loss: 0.4746 |cl_avg_loss: 5.1410 | tot_avg_loss: 0.9887 |
+[2024-03-11 19:36:40,267][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:36:40,267][train][INFO] - HIT@5: 0.0052|  NDCG@5: 0.0028| HIT@10: 0.0113|  NDCG@10: 0.0048| HIT@20: 0.0245|  NDCG@20: 0.0081
+[2024-03-11 19:36:40,268][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:36:44,245][train][INFO] - epoch: 16 || adv_avg_loss: 0.4720 |cl_avg_loss: 5.0495 | tot_avg_loss: 0.9770 |
+[2024-03-11 19:36:49,444][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:36:49,445][train][INFO] - HIT@5: 0.0056|  NDCG@5: 0.0032| HIT@10: 0.0130|  NDCG@10: 0.0056| HIT@20: 0.0258|  NDCG@20: 0.0088
+[2024-03-11 19:36:49,453][train][INFO] - saving model after new best score: 0.0088
+[2024-03-11 19:36:53,433][train][INFO] - epoch: 17 || adv_avg_loss: 0.4672 |cl_avg_loss: 4.9529 | tot_avg_loss: 0.9624 |
+[2024-03-11 19:36:58,691][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:36:58,691][train][INFO] - HIT@5: 0.0048|  NDCG@5: 0.0027| HIT@10: 0.0108|  NDCG@10: 0.0046| HIT@20: 0.0249|  NDCG@20: 0.0081
+[2024-03-11 19:36:58,691][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:37:02,684][train][INFO] - epoch: 18 || adv_avg_loss: 0.4663 |cl_avg_loss: 4.8583 | tot_avg_loss: 0.9521 |
+[2024-03-11 19:37:07,972][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:37:07,972][train][INFO] - HIT@5: 0.0046|  NDCG@5: 0.0026| HIT@10: 0.0108|  NDCG@10: 0.0046| HIT@20: 0.0254|  NDCG@20: 0.0082
+[2024-03-11 19:37:07,972][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:37:11,940][train][INFO] - epoch: 19 || adv_avg_loss: 0.4637 |cl_avg_loss: 4.8101 | tot_avg_loss: 0.9447 |
+[2024-03-11 19:37:17,144][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:37:17,144][train][INFO] - HIT@5: 0.0051|  NDCG@5: 0.0030| HIT@10: 0.0119|  NDCG@10: 0.0051| HIT@20: 0.0263|  NDCG@20: 0.0087
+[2024-03-11 19:37:17,144][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:37:21,107][train][INFO] - epoch: 20 || adv_avg_loss: 0.4609 |cl_avg_loss: 4.7104 | tot_avg_loss: 0.9319 |
+[2024-03-11 19:37:26,377][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:37:26,377][train][INFO] - HIT@5: 0.0057|  NDCG@5: 0.0032| HIT@10: 0.0130|  NDCG@10: 0.0055| HIT@20: 0.0271|  NDCG@20: 0.0090
+[2024-03-11 19:37:26,385][train][INFO] - saving model after new best score: 0.0090
+[2024-03-11 19:37:30,352][train][INFO] - epoch: 21 || adv_avg_loss: 0.4575 |cl_avg_loss: 4.6384 | tot_avg_loss: 0.9214 |
+[2024-03-11 19:37:35,650][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:37:35,650][train][INFO] - HIT@5: 0.0051|  NDCG@5: 0.0027| HIT@10: 0.0122|  NDCG@10: 0.0050| HIT@20: 0.0275|  NDCG@20: 0.0089
+[2024-03-11 19:37:35,650][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:37:39,638][train][INFO] - epoch: 22 || adv_avg_loss: 0.4544 |cl_avg_loss: 4.5682 | tot_avg_loss: 0.9113 |
+[2024-03-11 19:37:44,984][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:37:44,984][train][INFO] - HIT@5: 0.0049|  NDCG@5: 0.0026| HIT@10: 0.0118|  NDCG@10: 0.0047| HIT@20: 0.0273|  NDCG@20: 0.0086
+[2024-03-11 19:37:44,984][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:37:48,953][train][INFO] - epoch: 23 || adv_avg_loss: 0.4521 |cl_avg_loss: 4.4142 | tot_avg_loss: 0.8936 |
+[2024-03-11 19:37:54,264][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:37:54,264][train][INFO] - HIT@5: 0.0044|  NDCG@5: 0.0025| HIT@10: 0.0116|  NDCG@10: 0.0048| HIT@20: 0.0277|  NDCG@20: 0.0088
+[2024-03-11 19:37:54,264][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:37:58,240][train][INFO] - epoch: 24 || adv_avg_loss: 0.4485 |cl_avg_loss: 4.3108 | tot_avg_loss: 0.8796 |
+[2024-03-11 19:38:03,632][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:38:03,632][train][INFO] - HIT@5: 0.0062|  NDCG@5: 0.0035| HIT@10: 0.0131|  NDCG@10: 0.0057| HIT@20: 0.0292|  NDCG@20: 0.0097
+[2024-03-11 19:38:03,640][train][INFO] - saving model after new best score: 0.0097
+[2024-03-11 19:38:07,610][train][INFO] - epoch: 25 || adv_avg_loss: 0.4471 |cl_avg_loss: 4.2257 | tot_avg_loss: 0.8697 |
+[2024-03-11 19:38:13,008][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:38:13,008][train][INFO] - HIT@5: 0.0054|  NDCG@5: 0.0032| HIT@10: 0.0119|  NDCG@10: 0.0053| HIT@20: 0.0297|  NDCG@20: 0.0097
+[2024-03-11 19:38:13,008][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:38:17,006][train][INFO] - epoch: 26 || adv_avg_loss: 0.4450 |cl_avg_loss: 4.1561 | tot_avg_loss: 0.8606 |
+[2024-03-11 19:38:22,486][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:38:22,486][train][INFO] - HIT@5: 0.0060|  NDCG@5: 0.0033| HIT@10: 0.0141|  NDCG@10: 0.0058| HIT@20: 0.0306|  NDCG@20: 0.0099
+[2024-03-11 19:38:22,494][train][INFO] - saving model after new best score: 0.0099
+[2024-03-11 19:38:26,475][train][INFO] - epoch: 27 || adv_avg_loss: 0.4418 |cl_avg_loss: 4.0456 | tot_avg_loss: 0.8464 |
+[2024-03-11 19:38:32,037][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:38:32,037][train][INFO] - HIT@5: 0.0050|  NDCG@5: 0.0027| HIT@10: 0.0135|  NDCG@10: 0.0054| HIT@20: 0.0306|  NDCG@20: 0.0097
+[2024-03-11 19:38:32,038][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:38:36,013][train][INFO] - epoch: 28 || adv_avg_loss: 0.4382 |cl_avg_loss: 3.9665 | tot_avg_loss: 0.8349 |
+[2024-03-11 19:38:41,404][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:38:41,404][train][INFO] - HIT@5: 0.0051|  NDCG@5: 0.0029| HIT@10: 0.0126|  NDCG@10: 0.0052| HIT@20: 0.0314|  NDCG@20: 0.0099
+[2024-03-11 19:38:41,404][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:38:45,375][train][INFO] - epoch: 29 || adv_avg_loss: 0.4344 |cl_avg_loss: 3.8829 | tot_avg_loss: 0.8227 |
+[2024-03-11 19:38:50,757][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:38:50,757][train][INFO] - HIT@5: 0.0059|  NDCG@5: 0.0034| HIT@10: 0.0135|  NDCG@10: 0.0057| HIT@20: 0.0328|  NDCG@20: 0.0106
+[2024-03-11 19:38:50,765][train][INFO] - saving model after new best score: 0.0106
+[2024-03-11 19:38:54,763][train][INFO] - epoch: 30 || adv_avg_loss: 0.4319 |cl_avg_loss: 3.7925 | tot_avg_loss: 0.8111 |
+[2024-03-11 19:39:00,175][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:39:00,175][train][INFO] - HIT@5: 0.0069|  NDCG@5: 0.0038| HIT@10: 0.0151|  NDCG@10: 0.0065| HIT@20: 0.0347|  NDCG@20: 0.0113
+[2024-03-11 19:39:00,185][train][INFO] - saving model after new best score: 0.0113
+[2024-03-11 19:39:04,154][train][INFO] - epoch: 31 || adv_avg_loss: 0.4297 |cl_avg_loss: 3.7444 | tot_avg_loss: 0.8041 |
+[2024-03-11 19:39:09,640][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:39:09,640][train][INFO] - HIT@5: 0.0064|  NDCG@5: 0.0036| HIT@10: 0.0147|  NDCG@10: 0.0063| HIT@20: 0.0364|  NDCG@20: 0.0117
+[2024-03-11 19:39:09,648][train][INFO] - saving model after new best score: 0.0117
+[2024-03-11 19:39:13,639][train][INFO] - epoch: 32 || adv_avg_loss: 0.4259 |cl_avg_loss: 3.6288 | tot_avg_loss: 0.7888 |
+[2024-03-11 19:39:19,073][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:39:19,073][train][INFO] - HIT@5: 0.0066|  NDCG@5: 0.0037| HIT@10: 0.0163|  NDCG@10: 0.0067| HIT@20: 0.0376|  NDCG@20: 0.0120
+[2024-03-11 19:39:19,081][train][INFO] - saving model after new best score: 0.0120
+[2024-03-11 19:39:23,060][train][INFO] - epoch: 33 || adv_avg_loss: 0.4254 |cl_avg_loss: 3.5962 | tot_avg_loss: 0.7850 |
+[2024-03-11 19:39:28,452][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:39:28,452][train][INFO] - HIT@5: 0.0080|  NDCG@5: 0.0042| HIT@10: 0.0174|  NDCG@10: 0.0072| HIT@20: 0.0402|  NDCG@20: 0.0129
+[2024-03-11 19:39:28,460][train][INFO] - saving model after new best score: 0.0129
+[2024-03-11 19:39:32,452][train][INFO] - epoch: 34 || adv_avg_loss: 0.4222 |cl_avg_loss: 3.5527 | tot_avg_loss: 0.7775 |
+[2024-03-11 19:39:38,044][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:39:38,044][train][INFO] - HIT@5: 0.0076|  NDCG@5: 0.0042| HIT@10: 0.0182|  NDCG@10: 0.0075| HIT@20: 0.0404|  NDCG@20: 0.0131
+[2024-03-11 19:39:38,051][train][INFO] - saving model after new best score: 0.0131
+[2024-03-11 19:39:42,028][train][INFO] - epoch: 35 || adv_avg_loss: 0.4184 |cl_avg_loss: 3.4888 | tot_avg_loss: 0.7673 |
+[2024-03-11 19:39:47,467][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:39:47,467][train][INFO] - HIT@5: 0.0073|  NDCG@5: 0.0041| HIT@10: 0.0167|  NDCG@10: 0.0071| HIT@20: 0.0402|  NDCG@20: 0.0130
+[2024-03-11 19:39:47,467][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:39:51,451][train][INFO] - epoch: 36 || adv_avg_loss: 0.4150 |cl_avg_loss: 3.4090 | tot_avg_loss: 0.7559 |
+[2024-03-11 19:39:56,959][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:39:56,959][train][INFO] - HIT@5: 0.0069|  NDCG@5: 0.0039| HIT@10: 0.0167|  NDCG@10: 0.0069| HIT@20: 0.0407|  NDCG@20: 0.0130
+[2024-03-11 19:39:56,959][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:40:00,923][train][INFO] - epoch: 37 || adv_avg_loss: 0.4118 |cl_avg_loss: 3.4120 | tot_avg_loss: 0.7530 |
+[2024-03-11 19:40:06,442][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:40:06,442][train][INFO] - HIT@5: 0.0067|  NDCG@5: 0.0038| HIT@10: 0.0185|  NDCG@10: 0.0075| HIT@20: 0.0428|  NDCG@20: 0.0136
+[2024-03-11 19:40:06,450][train][INFO] - saving model after new best score: 0.0136
+[2024-03-11 19:40:10,472][train][INFO] - epoch: 38 || adv_avg_loss: 0.4089 |cl_avg_loss: 3.3462 | tot_avg_loss: 0.7435 |
+[2024-03-11 19:40:15,950][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:40:15,951][train][INFO] - HIT@5: 0.0080|  NDCG@5: 0.0044| HIT@10: 0.0186|  NDCG@10: 0.0078| HIT@20: 0.0433|  NDCG@20: 0.0139
+[2024-03-11 19:40:15,960][train][INFO] - saving model after new best score: 0.0139
+[2024-03-11 19:40:19,943][train][INFO] - epoch: 39 || adv_avg_loss: 0.4052 |cl_avg_loss: 3.3020 | tot_avg_loss: 0.7354 |
+[2024-03-11 19:40:25,500][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:40:25,500][train][INFO] - HIT@5: 0.0086|  NDCG@5: 0.0047| HIT@10: 0.0187|  NDCG@10: 0.0079| HIT@20: 0.0442|  NDCG@20: 0.0142
+[2024-03-11 19:40:25,510][train][INFO] - saving model after new best score: 0.0142
+[2024-03-11 19:40:29,492][train][INFO] - epoch: 40 || adv_avg_loss: 0.4042 |cl_avg_loss: 3.2691 | tot_avg_loss: 0.7311 |
+[2024-03-11 19:40:34,996][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:40:34,996][train][INFO] - HIT@5: 0.0075|  NDCG@5: 0.0044| HIT@10: 0.0181|  NDCG@10: 0.0077| HIT@20: 0.0442|  NDCG@20: 0.0142
+[2024-03-11 19:40:34,996][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:40:38,982][train][INFO] - epoch: 41 || adv_avg_loss: 0.4015 |cl_avg_loss: 3.2330 | tot_avg_loss: 0.7248 |
+[2024-03-11 19:40:44,457][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:40:44,457][train][INFO] - HIT@5: 0.0085|  NDCG@5: 0.0048| HIT@10: 0.0197|  NDCG@10: 0.0084| HIT@20: 0.0461|  NDCG@20: 0.0150
+[2024-03-11 19:40:44,465][train][INFO] - saving model after new best score: 0.0150
+[2024-03-11 19:40:48,479][train][INFO] - epoch: 42 || adv_avg_loss: 0.3984 |cl_avg_loss: 3.2069 | tot_avg_loss: 0.7191 |
+[2024-03-11 19:40:53,942][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:40:53,942][train][INFO] - HIT@5: 0.0093|  NDCG@5: 0.0053| HIT@10: 0.0213|  NDCG@10: 0.0092| HIT@20: 0.0475|  NDCG@20: 0.0157
+[2024-03-11 19:40:53,950][train][INFO] - saving model after new best score: 0.0157
+[2024-03-11 19:40:57,933][train][INFO] - epoch: 43 || adv_avg_loss: 0.3952 |cl_avg_loss: 3.1499 | tot_avg_loss: 0.7102 |
+[2024-03-11 19:41:03,463][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:41:03,463][train][INFO] - HIT@5: 0.0092|  NDCG@5: 0.0051| HIT@10: 0.0206|  NDCG@10: 0.0087| HIT@20: 0.0479|  NDCG@20: 0.0156
+[2024-03-11 19:41:03,463][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:41:07,462][train][INFO] - epoch: 44 || adv_avg_loss: 0.3937 |cl_avg_loss: 3.0931 | tot_avg_loss: 0.7030 |
+[2024-03-11 19:41:12,977][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:41:12,978][train][INFO] - HIT@5: 0.0079|  NDCG@5: 0.0045| HIT@10: 0.0191|  NDCG@10: 0.0081| HIT@20: 0.0478|  NDCG@20: 0.0153
+[2024-03-11 19:41:12,978][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:41:16,959][train][INFO] - epoch: 45 || adv_avg_loss: 0.3901 |cl_avg_loss: 3.1046 | tot_avg_loss: 0.7005 |
+[2024-03-11 19:41:22,419][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:41:22,419][train][INFO] - HIT@5: 0.0090|  NDCG@5: 0.0053| HIT@10: 0.0200|  NDCG@10: 0.0088| HIT@20: 0.0486|  NDCG@20: 0.0159
+[2024-03-11 19:41:22,427][train][INFO] - saving model after new best score: 0.0159
+[2024-03-11 19:41:26,437][train][INFO] - epoch: 46 || adv_avg_loss: 0.3874 |cl_avg_loss: 3.0821 | tot_avg_loss: 0.6956 |
+[2024-03-11 19:41:31,925][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:41:31,925][train][INFO] - HIT@5: 0.0085|  NDCG@5: 0.0047| HIT@10: 0.0203|  NDCG@10: 0.0085| HIT@20: 0.0461|  NDCG@20: 0.0150
+[2024-03-11 19:41:31,927][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:41:35,908][train][INFO] - epoch: 47 || adv_avg_loss: 0.3825 |cl_avg_loss: 3.0610 | tot_avg_loss: 0.6886 |
+[2024-03-11 19:41:41,405][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:41:41,405][train][INFO] - HIT@5: 0.0079|  NDCG@5: 0.0045| HIT@10: 0.0203|  NDCG@10: 0.0084| HIT@20: 0.0467|  NDCG@20: 0.0150
+[2024-03-11 19:41:41,407][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:41:45,389][train][INFO] - epoch: 48 || adv_avg_loss: 0.3831 |cl_avg_loss: 3.0326 | tot_avg_loss: 0.6864 |
+[2024-03-11 19:41:50,956][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:41:50,956][train][INFO] - HIT@5: 0.0080|  NDCG@5: 0.0046| HIT@10: 0.0196|  NDCG@10: 0.0083| HIT@20: 0.0478|  NDCG@20: 0.0153
+[2024-03-11 19:41:50,956][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:41:54,943][train][INFO] - epoch: 49 || adv_avg_loss: 0.3804 |cl_avg_loss: 3.0298 | tot_avg_loss: 0.6834 |
+[2024-03-11 19:42:00,566][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:42:00,566][train][INFO] - HIT@5: 0.0090|  NDCG@5: 0.0050| HIT@10: 0.0216|  NDCG@10: 0.0090| HIT@20: 0.0507|  NDCG@20: 0.0162
+[2024-03-11 19:42:00,574][train][INFO] - saving model after new best score: 0.0162
+[2024-03-11 19:42:04,577][train][INFO] - epoch: 50 || adv_avg_loss: 0.3764 |cl_avg_loss: 2.9969 | tot_avg_loss: 0.6761 |
+[2024-03-11 19:42:10,152][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:42:10,152][train][INFO] - HIT@5: 0.0087|  NDCG@5: 0.0049| HIT@10: 0.0217|  NDCG@10: 0.0090| HIT@20: 0.0512|  NDCG@20: 0.0164
+[2024-03-11 19:42:10,160][train][INFO] - saving model after new best score: 0.0164
+[2024-03-11 19:42:14,135][train][INFO] - epoch: 51 || adv_avg_loss: 0.3751 |cl_avg_loss: 2.9746 | tot_avg_loss: 0.6726 |
+[2024-03-11 19:42:19,682][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:42:19,682][train][INFO] - HIT@5: 0.0102|  NDCG@5: 0.0057| HIT@10: 0.0228|  NDCG@10: 0.0097| HIT@20: 0.0531|  NDCG@20: 0.0173
+[2024-03-11 19:42:19,690][train][INFO] - saving model after new best score: 0.0173
+[2024-03-11 19:42:23,669][train][INFO] - epoch: 52 || adv_avg_loss: 0.3715 |cl_avg_loss: 2.9369 | tot_avg_loss: 0.6652 |
+[2024-03-11 19:42:29,335][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:42:29,335][train][INFO] - HIT@5: 0.0101|  NDCG@5: 0.0056| HIT@10: 0.0225|  NDCG@10: 0.0096| HIT@20: 0.0531|  NDCG@20: 0.0172
+[2024-03-11 19:42:29,335][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:42:33,314][train][INFO] - epoch: 53 || adv_avg_loss: 0.3691 |cl_avg_loss: 2.9656 | tot_avg_loss: 0.6656 |
+[2024-03-11 19:42:38,993][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:42:38,993][train][INFO] - HIT@5: 0.0099|  NDCG@5: 0.0056| HIT@10: 0.0225|  NDCG@10: 0.0096| HIT@20: 0.0544|  NDCG@20: 0.0176
+[2024-03-11 19:42:39,000][train][INFO] - saving model after new best score: 0.0176
+[2024-03-11 19:42:43,016][train][INFO] - epoch: 54 || adv_avg_loss: 0.3660 |cl_avg_loss: 2.9377 | tot_avg_loss: 0.6598 |
+[2024-03-11 19:42:48,719][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:42:48,719][train][INFO] - HIT@5: 0.0094|  NDCG@5: 0.0053| HIT@10: 0.0244|  NDCG@10: 0.0101| HIT@20: 0.0567|  NDCG@20: 0.0181
+[2024-03-11 19:42:48,727][train][INFO] - saving model after new best score: 0.0181
+[2024-03-11 19:42:52,707][train][INFO] - epoch: 55 || adv_avg_loss: 0.3626 |cl_avg_loss: 2.9061 | tot_avg_loss: 0.6532 |
+[2024-03-11 19:42:58,295][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:42:58,295][train][INFO] - HIT@5: 0.0104|  NDCG@5: 0.0059| HIT@10: 0.0242|  NDCG@10: 0.0103| HIT@20: 0.0568|  NDCG@20: 0.0184
+[2024-03-11 19:42:58,303][train][INFO] - saving model after new best score: 0.0184
+[2024-03-11 19:43:02,288][train][INFO] - epoch: 56 || adv_avg_loss: 0.3601 |cl_avg_loss: 2.9168 | tot_avg_loss: 0.6518 |
+[2024-03-11 19:43:07,873][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:43:07,873][train][INFO] - HIT@5: 0.0102|  NDCG@5: 0.0055| HIT@10: 0.0239|  NDCG@10: 0.0099| HIT@20: 0.0582|  NDCG@20: 0.0184
+[2024-03-11 19:43:07,881][train][INFO] - saving model after new best score: 0.0184
+[2024-03-11 19:43:11,871][train][INFO] - epoch: 57 || adv_avg_loss: 0.3573 |cl_avg_loss: 2.9253 | tot_avg_loss: 0.6498 |
+[2024-03-11 19:43:17,389][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:43:17,389][train][INFO] - HIT@5: 0.0096|  NDCG@5: 0.0053| HIT@10: 0.0240|  NDCG@10: 0.0099| HIT@20: 0.0578|  NDCG@20: 0.0184
+[2024-03-11 19:43:17,389][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:43:21,395][train][INFO] - epoch: 58 || adv_avg_loss: 0.3545 |cl_avg_loss: 2.8627 | tot_avg_loss: 0.6407 |
+[2024-03-11 19:43:27,069][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:43:27,069][train][INFO] - HIT@5: 0.0098|  NDCG@5: 0.0054| HIT@10: 0.0251|  NDCG@10: 0.0102| HIT@20: 0.0578|  NDCG@20: 0.0184
+[2024-03-11 19:43:27,071][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:43:31,066][train][INFO] - epoch: 59 || adv_avg_loss: 0.3524 |cl_avg_loss: 2.8576 | tot_avg_loss: 0.6381 |
+[2024-03-11 19:43:36,646][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:43:36,646][train][INFO] - HIT@5: 0.0107|  NDCG@5: 0.0060| HIT@10: 0.0261|  NDCG@10: 0.0109| HIT@20: 0.0592|  NDCG@20: 0.0191
+[2024-03-11 19:43:36,654][train][INFO] - saving model after new best score: 0.0191
+[2024-03-11 19:43:40,635][train][INFO] - epoch: 60 || adv_avg_loss: 0.3502 |cl_avg_loss: 2.8714 | tot_avg_loss: 0.6374 |
+[2024-03-11 19:43:46,153][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:43:46,153][train][INFO] - HIT@5: 0.0116|  NDCG@5: 0.0063| HIT@10: 0.0265|  NDCG@10: 0.0111| HIT@20: 0.0605|  NDCG@20: 0.0195
+[2024-03-11 19:43:46,161][train][INFO] - saving model after new best score: 0.0195
+[2024-03-11 19:43:50,140][train][INFO] - epoch: 61 || adv_avg_loss: 0.3477 |cl_avg_loss: 2.8310 | tot_avg_loss: 0.6308 |
+[2024-03-11 19:43:55,612][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:43:55,613][train][INFO] - HIT@5: 0.0110|  NDCG@5: 0.0061| HIT@10: 0.0262|  NDCG@10: 0.0109| HIT@20: 0.0614|  NDCG@20: 0.0196
+[2024-03-11 19:43:55,620][train][INFO] - saving model after new best score: 0.0196
+[2024-03-11 19:43:59,616][train][INFO] - epoch: 62 || adv_avg_loss: 0.3453 |cl_avg_loss: 2.8435 | tot_avg_loss: 0.6297 |
+[2024-03-11 19:44:05,099][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:44:05,099][train][INFO] - HIT@5: 0.0117|  NDCG@5: 0.0067| HIT@10: 0.0266|  NDCG@10: 0.0114| HIT@20: 0.0618|  NDCG@20: 0.0202
+[2024-03-11 19:44:05,107][train][INFO] - saving model after new best score: 0.0202
+[2024-03-11 19:44:09,085][train][INFO] - epoch: 63 || adv_avg_loss: 0.3419 |cl_avg_loss: 2.8331 | tot_avg_loss: 0.6252 |
+[2024-03-11 19:44:14,618][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:44:14,618][train][INFO] - HIT@5: 0.0113|  NDCG@5: 0.0063| HIT@10: 0.0274|  NDCG@10: 0.0115| HIT@20: 0.0623|  NDCG@20: 0.0201
+[2024-03-11 19:44:14,618][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:44:18,600][train][INFO] - epoch: 64 || adv_avg_loss: 0.3400 |cl_avg_loss: 2.8409 | tot_avg_loss: 0.6241 |
+[2024-03-11 19:44:24,170][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:44:24,170][train][INFO] - HIT@5: 0.0110|  NDCG@5: 0.0059| HIT@10: 0.0270|  NDCG@10: 0.0110| HIT@20: 0.0620|  NDCG@20: 0.0198
+[2024-03-11 19:44:24,170][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:44:28,149][train][INFO] - epoch: 65 || adv_avg_loss: 0.3355 |cl_avg_loss: 2.8138 | tot_avg_loss: 0.6168 |
+[2024-03-11 19:44:33,747][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:44:33,747][train][INFO] - HIT@5: 0.0123|  NDCG@5: 0.0071| HIT@10: 0.0283|  NDCG@10: 0.0122| HIT@20: 0.0639|  NDCG@20: 0.0211
+[2024-03-11 19:44:33,755][train][INFO] - saving model after new best score: 0.0211
+[2024-03-11 19:44:37,752][train][INFO] - epoch: 66 || adv_avg_loss: 0.3334 |cl_avg_loss: 2.8232 | tot_avg_loss: 0.6157 |
+[2024-03-11 19:44:43,353][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:44:43,353][train][INFO] - HIT@5: 0.0137|  NDCG@5: 0.0079| HIT@10: 0.0284|  NDCG@10: 0.0125| HIT@20: 0.0657|  NDCG@20: 0.0218
+[2024-03-11 19:44:43,361][train][INFO] - saving model after new best score: 0.0218
+[2024-03-11 19:44:47,330][train][INFO] - epoch: 67 || adv_avg_loss: 0.3306 |cl_avg_loss: 2.7740 | tot_avg_loss: 0.6080 |
+[2024-03-11 19:44:52,854][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:44:52,854][train][INFO] - HIT@5: 0.0127|  NDCG@5: 0.0070| HIT@10: 0.0290|  NDCG@10: 0.0122| HIT@20: 0.0660|  NDCG@20: 0.0214
+[2024-03-11 19:44:52,855][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:44:56,836][train][INFO] - epoch: 68 || adv_avg_loss: 0.3298 |cl_avg_loss: 2.7819 | tot_avg_loss: 0.6079 |
+[2024-03-11 19:45:02,728][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:45:02,729][train][INFO] - HIT@5: 0.0130|  NDCG@5: 0.0073| HIT@10: 0.0300|  NDCG@10: 0.0126| HIT@20: 0.0679|  NDCG@20: 0.0221
+[2024-03-11 19:45:02,736][train][INFO] - saving model after new best score: 0.0221
+[2024-03-11 19:45:06,713][train][INFO] - epoch: 69 || adv_avg_loss: 0.3251 |cl_avg_loss: 2.7732 | tot_avg_loss: 0.6024 |
+[2024-03-11 19:45:12,354][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:45:12,354][train][INFO] - HIT@5: 0.0127|  NDCG@5: 0.0069| HIT@10: 0.0279|  NDCG@10: 0.0118| HIT@20: 0.0669|  NDCG@20: 0.0215
+[2024-03-11 19:45:12,354][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:45:16,374][train][INFO] - epoch: 70 || adv_avg_loss: 0.3237 |cl_avg_loss: 2.7643 | tot_avg_loss: 0.6001 |
+[2024-03-11 19:45:21,985][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:45:21,985][train][INFO] - HIT@5: 0.0133|  NDCG@5: 0.0074| HIT@10: 0.0305|  NDCG@10: 0.0128| HIT@20: 0.0677|  NDCG@20: 0.0221
+[2024-03-11 19:45:21,985][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:45:25,969][train][INFO] - epoch: 71 || adv_avg_loss: 0.3204 |cl_avg_loss: 2.7553 | tot_avg_loss: 0.5959 |
+[2024-03-11 19:45:31,612][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:45:31,612][train][INFO] - HIT@5: 0.0128|  NDCG@5: 0.0072| HIT@10: 0.0305|  NDCG@10: 0.0128| HIT@20: 0.0698|  NDCG@20: 0.0226
+[2024-03-11 19:45:31,620][train][INFO] - saving model after new best score: 0.0226
+[2024-03-11 19:45:35,595][train][INFO] - epoch: 72 || adv_avg_loss: 0.3195 |cl_avg_loss: 2.7795 | tot_avg_loss: 0.5975 |
+[2024-03-11 19:45:41,243][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:45:41,243][train][INFO] - HIT@5: 0.0126|  NDCG@5: 0.0072| HIT@10: 0.0300|  NDCG@10: 0.0127| HIT@20: 0.0719|  NDCG@20: 0.0232
+[2024-03-11 19:45:41,251][train][INFO] - saving model after new best score: 0.0232
+[2024-03-11 19:45:45,228][train][INFO] - epoch: 73 || adv_avg_loss: 0.3177 |cl_avg_loss: 2.7645 | tot_avg_loss: 0.5942 |
+[2024-03-11 19:45:50,845][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:45:50,845][train][INFO] - HIT@5: 0.0135|  NDCG@5: 0.0077| HIT@10: 0.0315|  NDCG@10: 0.0134| HIT@20: 0.0724|  NDCG@20: 0.0236
+[2024-03-11 19:45:50,853][train][INFO] - saving model after new best score: 0.0236
+[2024-03-11 19:45:54,848][train][INFO] - epoch: 74 || adv_avg_loss: 0.3132 |cl_avg_loss: 2.7352 | tot_avg_loss: 0.5868 |
+[2024-03-11 19:46:00,516][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:46:00,517][train][INFO] - HIT@5: 0.0120|  NDCG@5: 0.0069| HIT@10: 0.0293|  NDCG@10: 0.0124| HIT@20: 0.0721|  NDCG@20: 0.0230
+[2024-03-11 19:46:00,517][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:46:04,509][train][INFO] - epoch: 75 || adv_avg_loss: 0.3127 |cl_avg_loss: 2.7484 | tot_avg_loss: 0.5875 |
+[2024-03-11 19:46:10,145][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:46:10,145][train][INFO] - HIT@5: 0.0128|  NDCG@5: 0.0069| HIT@10: 0.0321|  NDCG@10: 0.0130| HIT@20: 0.0740|  NDCG@20: 0.0235
+[2024-03-11 19:46:10,145][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:46:14,124][train][INFO] - epoch: 76 || adv_avg_loss: 0.3110 |cl_avg_loss: 2.7436 | tot_avg_loss: 0.5854 |
+[2024-03-11 19:46:19,794][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:46:19,795][train][INFO] - HIT@5: 0.0135|  NDCG@5: 0.0075| HIT@10: 0.0318|  NDCG@10: 0.0133| HIT@20: 0.0750|  NDCG@20: 0.0240
+[2024-03-11 19:46:19,802][train][INFO] - saving model after new best score: 0.0240
+[2024-03-11 19:46:23,777][train][INFO] - epoch: 77 || adv_avg_loss: 0.3074 |cl_avg_loss: 2.7376 | tot_avg_loss: 0.5812 |
+[2024-03-11 19:46:29,499][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:46:29,500][train][INFO] - HIT@5: 0.0133|  NDCG@5: 0.0075| HIT@10: 0.0334|  NDCG@10: 0.0139| HIT@20: 0.0771|  NDCG@20: 0.0248
+[2024-03-11 19:46:29,510][train][INFO] - saving model after new best score: 0.0248
+[2024-03-11 19:46:33,517][train][INFO] - epoch: 78 || adv_avg_loss: 0.3081 |cl_avg_loss: 2.7738 | tot_avg_loss: 0.5854 |
+[2024-03-11 19:46:39,088][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:46:39,088][train][INFO] - HIT@5: 0.0139|  NDCG@5: 0.0076| HIT@10: 0.0320|  NDCG@10: 0.0133| HIT@20: 0.0759|  NDCG@20: 0.0243
+[2024-03-11 19:46:39,088][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:46:43,062][train][INFO] - epoch: 79 || adv_avg_loss: 0.3023 |cl_avg_loss: 2.7255 | tot_avg_loss: 0.5749 |
+[2024-03-11 19:46:48,706][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:46:48,706][train][INFO] - HIT@5: 0.0140|  NDCG@5: 0.0077| HIT@10: 0.0338|  NDCG@10: 0.0139| HIT@20: 0.0762|  NDCG@20: 0.0246
+[2024-03-11 19:46:48,706][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:46:52,707][train][INFO] - epoch: 80 || adv_avg_loss: 0.2991 |cl_avg_loss: 2.7048 | tot_avg_loss: 0.5696 |
+[2024-03-11 19:46:58,370][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:46:58,370][train][INFO] - HIT@5: 0.0133|  NDCG@5: 0.0074| HIT@10: 0.0312|  NDCG@10: 0.0131| HIT@20: 0.0755|  NDCG@20: 0.0241
+[2024-03-11 19:46:58,370][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:47:02,336][train][INFO] - epoch: 81 || adv_avg_loss: 0.3006 |cl_avg_loss: 2.7259 | tot_avg_loss: 0.5731 |
+[2024-03-11 19:47:07,926][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:47:07,926][train][INFO] - HIT@5: 0.0148|  NDCG@5: 0.0083| HIT@10: 0.0337|  NDCG@10: 0.0143| HIT@20: 0.0777|  NDCG@20: 0.0253
+[2024-03-11 19:47:07,934][train][INFO] - saving model after new best score: 0.0253
+[2024-03-11 19:47:11,924][train][INFO] - epoch: 82 || adv_avg_loss: 0.2986 |cl_avg_loss: 2.6877 | tot_avg_loss: 0.5673 |
+[2024-03-11 19:47:17,611][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:47:17,611][train][INFO] - HIT@5: 0.0155|  NDCG@5: 0.0088| HIT@10: 0.0348|  NDCG@10: 0.0149| HIT@20: 0.0795|  NDCG@20: 0.0260
+[2024-03-11 19:47:17,619][train][INFO] - saving model after new best score: 0.0260
+[2024-03-11 19:47:21,594][train][INFO] - epoch: 83 || adv_avg_loss: 0.2953 |cl_avg_loss: 2.6919 | tot_avg_loss: 0.5644 |
+[2024-03-11 19:47:27,301][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:47:27,301][train][INFO] - HIT@5: 0.0149|  NDCG@5: 0.0080| HIT@10: 0.0361|  NDCG@10: 0.0147| HIT@20: 0.0813|  NDCG@20: 0.0259
+[2024-03-11 19:47:27,301][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:47:31,286][train][INFO] - epoch: 84 || adv_avg_loss: 0.2927 |cl_avg_loss: 2.6988 | tot_avg_loss: 0.5625 |
+[2024-03-11 19:47:36,996][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:47:36,996][train][INFO] - HIT@5: 0.0140|  NDCG@5: 0.0082| HIT@10: 0.0345|  NDCG@10: 0.0147| HIT@20: 0.0801|  NDCG@20: 0.0260
+[2024-03-11 19:47:37,004][train][INFO] - saving model after new best score: 0.0260
+[2024-03-11 19:47:40,999][train][INFO] - epoch: 85 || adv_avg_loss: 0.2908 |cl_avg_loss: 2.6761 | tot_avg_loss: 0.5584 |
+[2024-03-11 19:47:46,822][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:47:46,822][train][INFO] - HIT@5: 0.0136|  NDCG@5: 0.0074| HIT@10: 0.0352|  NDCG@10: 0.0142| HIT@20: 0.0817|  NDCG@20: 0.0258
+[2024-03-11 19:47:46,822][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:47:50,816][train][INFO] - epoch: 86 || adv_avg_loss: 0.2882 |cl_avg_loss: 2.6699 | tot_avg_loss: 0.5552 |
+[2024-03-11 19:47:56,638][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:47:56,639][train][INFO] - HIT@5: 0.0138|  NDCG@5: 0.0078| HIT@10: 0.0348|  NDCG@10: 0.0144| HIT@20: 0.0831|  NDCG@20: 0.0265
+[2024-03-11 19:47:56,646][train][INFO] - saving model after new best score: 0.0265
+[2024-03-11 19:48:00,614][train][INFO] - epoch: 87 || adv_avg_loss: 0.2880 |cl_avg_loss: 2.6525 | tot_avg_loss: 0.5533 |
+[2024-03-11 19:48:06,207][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:48:06,207][train][INFO] - HIT@5: 0.0144|  NDCG@5: 0.0086| HIT@10: 0.0342|  NDCG@10: 0.0148| HIT@20: 0.0821|  NDCG@20: 0.0267
+[2024-03-11 19:48:06,215][train][INFO] - saving model after new best score: 0.0267
+[2024-03-11 19:48:10,189][train][INFO] - epoch: 88 || adv_avg_loss: 0.2841 |cl_avg_loss: 2.6853 | tot_avg_loss: 0.5526 |
+[2024-03-11 19:48:15,933][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:48:15,933][train][INFO] - HIT@5: 0.0148|  NDCG@5: 0.0080| HIT@10: 0.0351|  NDCG@10: 0.0145| HIT@20: 0.0839|  NDCG@20: 0.0267
+[2024-03-11 19:48:15,933][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:48:19,902][train][INFO] - epoch: 89 || adv_avg_loss: 0.2821 |cl_avg_loss: 2.6889 | tot_avg_loss: 0.5510 |
+[2024-03-11 19:48:25,625][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:48:25,625][train][INFO] - HIT@5: 0.0137|  NDCG@5: 0.0075| HIT@10: 0.0334|  NDCG@10: 0.0137| HIT@20: 0.0830|  NDCG@20: 0.0261
+[2024-03-11 19:48:25,625][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:48:29,626][train][INFO] - epoch: 90 || adv_avg_loss: 0.2810 |cl_avg_loss: 2.6799 | tot_avg_loss: 0.5490 |
+[2024-03-11 19:48:35,295][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:48:35,296][train][INFO] - HIT@5: 0.0156|  NDCG@5: 0.0087| HIT@10: 0.0364|  NDCG@10: 0.0153| HIT@20: 0.0853|  NDCG@20: 0.0275
+[2024-03-11 19:48:35,303][train][INFO] - saving model after new best score: 0.0275
+[2024-03-11 19:48:39,278][train][INFO] - epoch: 91 || adv_avg_loss: 0.2789 |cl_avg_loss: 2.6571 | tot_avg_loss: 0.5446 |
+[2024-03-11 19:48:45,065][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:48:45,065][train][INFO] - HIT@5: 0.0154|  NDCG@5: 0.0087| HIT@10: 0.0381|  NDCG@10: 0.0160| HIT@20: 0.0887|  NDCG@20: 0.0286
+[2024-03-11 19:48:45,073][train][INFO] - saving model after new best score: 0.0286
+[2024-03-11 19:48:49,054][train][INFO] - epoch: 92 || adv_avg_loss: 0.2762 |cl_avg_loss: 2.6455 | tot_avg_loss: 0.5407 |
+[2024-03-11 19:48:54,807][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:48:54,807][train][INFO] - HIT@5: 0.0148|  NDCG@5: 0.0080| HIT@10: 0.0357|  NDCG@10: 0.0146| HIT@20: 0.0865|  NDCG@20: 0.0273
+[2024-03-11 19:48:54,807][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:48:58,780][train][INFO] - epoch: 93 || adv_avg_loss: 0.2748 |cl_avg_loss: 2.6740 | tot_avg_loss: 0.5422 |
+[2024-03-11 19:49:04,417][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:49:04,417][train][INFO] - HIT@5: 0.0137|  NDCG@5: 0.0075| HIT@10: 0.0359|  NDCG@10: 0.0145| HIT@20: 0.0875|  NDCG@20: 0.0274
+[2024-03-11 19:49:04,417][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:49:08,421][train][INFO] - epoch: 94 || adv_avg_loss: 0.2749 |cl_avg_loss: 2.6409 | tot_avg_loss: 0.5390 |
+[2024-03-11 19:49:14,163][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:49:14,163][train][INFO] - HIT@5: 0.0145|  NDCG@5: 0.0082| HIT@10: 0.0361|  NDCG@10: 0.0150| HIT@20: 0.0886|  NDCG@20: 0.0281
+[2024-03-11 19:49:14,163][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:49:18,157][train][INFO] - epoch: 95 || adv_avg_loss: 0.2702 |cl_avg_loss: 2.6724 | tot_avg_loss: 0.5375 |
+[2024-03-11 19:49:23,831][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:49:23,831][train][INFO] - HIT@5: 0.0154|  NDCG@5: 0.0085| HIT@10: 0.0375|  NDCG@10: 0.0155| HIT@20: 0.0886|  NDCG@20: 0.0283
+[2024-03-11 19:49:23,831][train][INFO] - current early stop cnter: 4
+[2024-03-11 19:49:27,806][train][INFO] - epoch: 96 || adv_avg_loss: 0.2713 |cl_avg_loss: 2.6433 | tot_avg_loss: 0.5356 |
+[2024-03-11 19:49:33,552][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:49:33,552][train][INFO] - HIT@5: 0.0150|  NDCG@5: 0.0085| HIT@10: 0.0362|  NDCG@10: 0.0152| HIT@20: 0.0886|  NDCG@20: 0.0282
+[2024-03-11 19:49:33,552][train][INFO] - current early stop cnter: 5
+[2024-03-11 19:49:37,522][train][INFO] - epoch: 97 || adv_avg_loss: 0.2691 |cl_avg_loss: 2.6885 | tot_avg_loss: 0.5380 |
+[2024-03-11 19:49:43,284][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:49:43,284][train][INFO] - HIT@5: 0.0151|  NDCG@5: 0.0084| HIT@10: 0.0381|  NDCG@10: 0.0157| HIT@20: 0.0902|  NDCG@20: 0.0287
+[2024-03-11 19:49:43,292][train][INFO] - saving model after new best score: 0.0287
+[2024-03-11 19:49:47,285][train][INFO] - epoch: 98 || adv_avg_loss: 0.2668 |cl_avg_loss: 2.6525 | tot_avg_loss: 0.5320 |
+[2024-03-11 19:49:53,015][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:49:53,015][train][INFO] - HIT@5: 0.0156|  NDCG@5: 0.0085| HIT@10: 0.0373|  NDCG@10: 0.0154| HIT@20: 0.0894|  NDCG@20: 0.0283
+[2024-03-11 19:49:53,015][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:49:56,985][train][INFO] - epoch: 99 || adv_avg_loss: 0.2639 |cl_avg_loss: 2.6321 | tot_avg_loss: 0.5271 |
+[2024-03-11 19:50:02,676][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:50:02,676][train][INFO] - HIT@5: 0.0154|  NDCG@5: 0.0087| HIT@10: 0.0372|  NDCG@10: 0.0157| HIT@20: 0.0904|  NDCG@20: 0.0289
+[2024-03-11 19:50:02,684][train][INFO] - saving model after new best score: 0.0289
+[2024-03-11 19:50:06,673][train][INFO] - epoch: 100 || adv_avg_loss: 0.2624 |cl_avg_loss: 2.6653 | tot_avg_loss: 0.5290 |
+[2024-03-11 19:50:12,393][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:50:12,393][train][INFO] - HIT@5: 0.0166|  NDCG@5: 0.0093| HIT@10: 0.0387|  NDCG@10: 0.0163| HIT@20: 0.0908|  NDCG@20: 0.0293
+[2024-03-11 19:50:12,404][train][INFO] - saving model after new best score: 0.0293
+[2024-03-11 19:50:16,370][train][INFO] - epoch: 101 || adv_avg_loss: 0.2609 |cl_avg_loss: 2.6165 | tot_avg_loss: 0.5226 |
+[2024-03-11 19:50:22,236][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:50:22,236][train][INFO] - HIT@5: 0.0151|  NDCG@5: 0.0083| HIT@10: 0.0366|  NDCG@10: 0.0152| HIT@20: 0.0917|  NDCG@20: 0.0289
+[2024-03-11 19:50:22,236][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:50:26,229][train][INFO] - epoch: 102 || adv_avg_loss: 0.2606 |cl_avg_loss: 2.6288 | tot_avg_loss: 0.5235 |
+[2024-03-11 19:50:31,912][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:50:31,912][train][INFO] - HIT@5: 0.0162|  NDCG@5: 0.0088| HIT@10: 0.0377|  NDCG@10: 0.0156| HIT@20: 0.0926|  NDCG@20: 0.0293
+[2024-03-11 19:50:31,912][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:50:35,884][train][INFO] - epoch: 103 || adv_avg_loss: 0.2575 |cl_avg_loss: 2.6240 | tot_avg_loss: 0.5199 |
+[2024-03-11 19:50:41,662][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:50:41,663][train][INFO] - HIT@5: 0.0165|  NDCG@5: 0.0094| HIT@10: 0.0394|  NDCG@10: 0.0168| HIT@20: 0.0940|  NDCG@20: 0.0304
+[2024-03-11 19:50:41,670][train][INFO] - saving model after new best score: 0.0304
+[2024-03-11 19:50:45,647][train][INFO] - epoch: 104 || adv_avg_loss: 0.2557 |cl_avg_loss: 2.6411 | tot_avg_loss: 0.5199 |
+[2024-03-11 19:50:51,529][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:50:51,529][train][INFO] - HIT@5: 0.0171|  NDCG@5: 0.0099| HIT@10: 0.0403|  NDCG@10: 0.0173| HIT@20: 0.0949|  NDCG@20: 0.0309
+[2024-03-11 19:50:51,537][train][INFO] - saving model after new best score: 0.0309
+[2024-03-11 19:50:55,541][train][INFO] - epoch: 105 || adv_avg_loss: 0.2553 |cl_avg_loss: 2.6335 | tot_avg_loss: 0.5186 |
+[2024-03-11 19:51:01,266][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:51:01,266][train][INFO] - HIT@5: 0.0169|  NDCG@5: 0.0097| HIT@10: 0.0391|  NDCG@10: 0.0167| HIT@20: 0.0948|  NDCG@20: 0.0306
+[2024-03-11 19:51:01,266][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:51:05,269][train][INFO] - epoch: 106 || adv_avg_loss: 0.2531 |cl_avg_loss: 2.5925 | tot_avg_loss: 0.5123 |
+[2024-03-11 19:51:11,033][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:51:11,033][train][INFO] - HIT@5: 0.0170|  NDCG@5: 0.0094| HIT@10: 0.0393|  NDCG@10: 0.0165| HIT@20: 0.0948|  NDCG@20: 0.0304
+[2024-03-11 19:51:11,033][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:51:15,002][train][INFO] - epoch: 107 || adv_avg_loss: 0.2510 |cl_avg_loss: 2.6367 | tot_avg_loss: 0.5147 |
+[2024-03-11 19:51:20,844][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:51:20,844][train][INFO] - HIT@5: 0.0156|  NDCG@5: 0.0088| HIT@10: 0.0385|  NDCG@10: 0.0161| HIT@20: 0.0935|  NDCG@20: 0.0299
+[2024-03-11 19:51:20,845][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:51:24,822][train][INFO] - epoch: 108 || adv_avg_loss: 0.2503 |cl_avg_loss: 2.6258 | tot_avg_loss: 0.5129 |
+[2024-03-11 19:51:30,639][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:51:30,639][train][INFO] - HIT@5: 0.0167|  NDCG@5: 0.0093| HIT@10: 0.0406|  NDCG@10: 0.0170| HIT@20: 0.0956|  NDCG@20: 0.0306
+[2024-03-11 19:51:30,639][train][INFO] - current early stop cnter: 4
+[2024-03-11 19:51:34,610][train][INFO] - epoch: 109 || adv_avg_loss: 0.2484 |cl_avg_loss: 2.6048 | tot_avg_loss: 0.5089 |
+[2024-03-11 19:51:40,462][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:51:40,462][train][INFO] - HIT@5: 0.0153|  NDCG@5: 0.0085| HIT@10: 0.0389|  NDCG@10: 0.0159| HIT@20: 0.0952|  NDCG@20: 0.0300
+[2024-03-11 19:51:40,462][train][INFO] - current early stop cnter: 5
+[2024-03-11 19:51:44,483][train][INFO] - epoch: 110 || adv_avg_loss: 0.2458 |cl_avg_loss: 2.6095 | tot_avg_loss: 0.5067 |
+[2024-03-11 19:51:50,293][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:51:50,293][train][INFO] - HIT@5: 0.0163|  NDCG@5: 0.0089| HIT@10: 0.0399|  NDCG@10: 0.0164| HIT@20: 0.0946|  NDCG@20: 0.0300
+[2024-03-11 19:51:50,293][train][INFO] - current early stop cnter: 6
+[2024-03-11 19:51:54,265][train][INFO] - epoch: 111 || adv_avg_loss: 0.2441 |cl_avg_loss: 2.5892 | tot_avg_loss: 0.5030 |
+[2024-03-11 19:51:59,963][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:51:59,963][train][INFO] - HIT@5: 0.0157|  NDCG@5: 0.0087| HIT@10: 0.0392|  NDCG@10: 0.0161| HIT@20: 0.0960|  NDCG@20: 0.0303
+[2024-03-11 19:51:59,963][train][INFO] - current early stop cnter: 7
+[2024-03-11 19:52:03,943][train][INFO] - epoch: 112 || adv_avg_loss: 0.2440 |cl_avg_loss: 2.6232 | tot_avg_loss: 0.5063 |
+[2024-03-11 19:52:09,786][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:52:09,787][train][INFO] - HIT@5: 0.0174|  NDCG@5: 0.0094| HIT@10: 0.0416|  NDCG@10: 0.0170| HIT@20: 0.0954|  NDCG@20: 0.0305
+[2024-03-11 19:52:09,787][train][INFO] - current early stop cnter: 8
+[2024-03-11 19:52:13,764][train][INFO] - epoch: 113 || adv_avg_loss: 0.2415 |cl_avg_loss: 2.5941 | tot_avg_loss: 0.5009 |
+[2024-03-11 19:52:19,472][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:52:19,473][train][INFO] - HIT@5: 0.0169|  NDCG@5: 0.0094| HIT@10: 0.0410|  NDCG@10: 0.0170| HIT@20: 0.0956|  NDCG@20: 0.0306
+[2024-03-11 19:52:19,473][train][INFO] - current early stop cnter: 9
+[2024-03-11 19:52:23,474][train][INFO] - epoch: 114 || adv_avg_loss: 0.2399 |cl_avg_loss: 2.5780 | tot_avg_loss: 0.4977 |
+[2024-03-11 19:52:29,322][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:52:29,322][train][INFO] - HIT@5: 0.0170|  NDCG@5: 0.0096| HIT@10: 0.0397|  NDCG@10: 0.0168| HIT@20: 0.0965|  NDCG@20: 0.0310
+[2024-03-11 19:52:29,333][train][INFO] - saving model after new best score: 0.0310
+[2024-03-11 19:52:33,335][train][INFO] - epoch: 115 || adv_avg_loss: 0.2388 |cl_avg_loss: 2.5947 | tot_avg_loss: 0.4983 |
+[2024-03-11 19:52:39,138][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:52:39,138][train][INFO] - HIT@5: 0.0169|  NDCG@5: 0.0095| HIT@10: 0.0419|  NDCG@10: 0.0174| HIT@20: 0.0979|  NDCG@20: 0.0314
+[2024-03-11 19:52:39,146][train][INFO] - saving model after new best score: 0.0314
+[2024-03-11 19:52:43,134][train][INFO] - epoch: 116 || adv_avg_loss: 0.2372 |cl_avg_loss: 2.5778 | tot_avg_loss: 0.4949 |
+[2024-03-11 19:52:48,925][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:52:48,925][train][INFO] - HIT@5: 0.0163|  NDCG@5: 0.0091| HIT@10: 0.0399|  NDCG@10: 0.0166| HIT@20: 0.0975|  NDCG@20: 0.0309
+[2024-03-11 19:52:48,925][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:52:52,904][train][INFO] - epoch: 117 || adv_avg_loss: 0.2358 |cl_avg_loss: 2.5951 | tot_avg_loss: 0.4953 |
+[2024-03-11 19:52:58,734][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:52:58,734][train][INFO] - HIT@5: 0.0164|  NDCG@5: 0.0090| HIT@10: 0.0401|  NDCG@10: 0.0165| HIT@20: 0.0986|  NDCG@20: 0.0311
+[2024-03-11 19:52:58,734][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:53:02,744][train][INFO] - epoch: 118 || adv_avg_loss: 0.2342 |cl_avg_loss: 2.5716 | tot_avg_loss: 0.4914 |
+[2024-03-11 19:53:08,533][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:53:08,534][train][INFO] - HIT@5: 0.0170|  NDCG@5: 0.0095| HIT@10: 0.0421|  NDCG@10: 0.0175| HIT@20: 0.0982|  NDCG@20: 0.0315
+[2024-03-11 19:53:08,541][train][INFO] - saving model after new best score: 0.0315
+[2024-03-11 19:53:12,515][train][INFO] - epoch: 119 || adv_avg_loss: 0.2326 |cl_avg_loss: 2.5877 | tot_avg_loss: 0.4913 |
+[2024-03-11 19:53:18,346][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:53:18,346][train][INFO] - HIT@5: 0.0177|  NDCG@5: 0.0096| HIT@10: 0.0406|  NDCG@10: 0.0169| HIT@20: 0.0994|  NDCG@20: 0.0316
+[2024-03-11 19:53:18,354][train][INFO] - saving model after new best score: 0.0316
+[2024-03-11 19:53:22,355][train][INFO] - epoch: 120 || adv_avg_loss: 0.2304 |cl_avg_loss: 2.5959 | tot_avg_loss: 0.4899 |
+[2024-03-11 19:53:28,206][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:53:28,206][train][INFO] - HIT@5: 0.0170|  NDCG@5: 0.0094| HIT@10: 0.0419|  NDCG@10: 0.0173| HIT@20: 0.1009|  NDCG@20: 0.0319
+[2024-03-11 19:53:28,213][train][INFO] - saving model after new best score: 0.0319
+[2024-03-11 19:53:32,190][train][INFO] - epoch: 121 || adv_avg_loss: 0.2304 |cl_avg_loss: 2.5768 | tot_avg_loss: 0.4880 |
+[2024-03-11 19:53:38,030][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:53:38,031][train][INFO] - HIT@5: 0.0170|  NDCG@5: 0.0093| HIT@10: 0.0414|  NDCG@10: 0.0171| HIT@20: 0.0999|  NDCG@20: 0.0316
+[2024-03-11 19:53:38,033][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:53:42,032][train][INFO] - epoch: 122 || adv_avg_loss: 0.2302 |cl_avg_loss: 2.5745 | tot_avg_loss: 0.4876 |
+[2024-03-11 19:53:47,876][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:53:47,876][train][INFO] - HIT@5: 0.0172|  NDCG@5: 0.0093| HIT@10: 0.0405|  NDCG@10: 0.0167| HIT@20: 0.0999|  NDCG@20: 0.0314
+[2024-03-11 19:53:47,876][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:53:51,850][train][INFO] - epoch: 123 || adv_avg_loss: 0.2274 |cl_avg_loss: 2.5555 | tot_avg_loss: 0.4830 |
+[2024-03-11 19:53:57,691][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:53:57,692][train][INFO] - HIT@5: 0.0178|  NDCG@5: 0.0097| HIT@10: 0.0416|  NDCG@10: 0.0173| HIT@20: 0.1001|  NDCG@20: 0.0318
+[2024-03-11 19:53:57,692][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:54:01,670][train][INFO] - epoch: 124 || adv_avg_loss: 0.2257 |cl_avg_loss: 2.5859 | tot_avg_loss: 0.4843 |
+[2024-03-11 19:54:07,452][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:54:07,452][train][INFO] - HIT@5: 0.0179|  NDCG@5: 0.0098| HIT@10: 0.0411|  NDCG@10: 0.0172| HIT@20: 0.0999|  NDCG@20: 0.0318
+[2024-03-11 19:54:07,455][train][INFO] - current early stop cnter: 4
+[2024-03-11 19:54:11,451][train][INFO] - epoch: 125 || adv_avg_loss: 0.2253 |cl_avg_loss: 2.5897 | tot_avg_loss: 0.4843 |
+[2024-03-11 19:54:17,161][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:54:17,161][train][INFO] - HIT@5: 0.0170|  NDCG@5: 0.0096| HIT@10: 0.0415|  NDCG@10: 0.0174| HIT@20: 0.0999|  NDCG@20: 0.0320
+[2024-03-11 19:54:17,169][train][INFO] - saving model after new best score: 0.0320
+[2024-03-11 19:54:21,181][train][INFO] - epoch: 126 || adv_avg_loss: 0.2242 |cl_avg_loss: 2.5751 | tot_avg_loss: 0.4817 |
+[2024-03-11 19:54:26,992][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:54:26,992][train][INFO] - HIT@5: 0.0168|  NDCG@5: 0.0098| HIT@10: 0.0413|  NDCG@10: 0.0176| HIT@20: 0.1007|  NDCG@20: 0.0324
+[2024-03-11 19:54:27,000][train][INFO] - saving model after new best score: 0.0324
+[2024-03-11 19:54:30,983][train][INFO] - epoch: 127 || adv_avg_loss: 0.2226 |cl_avg_loss: 2.5557 | tot_avg_loss: 0.4782 |
+[2024-03-11 19:54:36,856][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:54:36,856][train][INFO] - HIT@5: 0.0179|  NDCG@5: 0.0100| HIT@10: 0.0427|  NDCG@10: 0.0178| HIT@20: 0.1026|  NDCG@20: 0.0328
+[2024-03-11 19:54:36,864][train][INFO] - saving model after new best score: 0.0328
+[2024-03-11 19:54:40,845][train][INFO] - epoch: 128 || adv_avg_loss: 0.2194 |cl_avg_loss: 2.5675 | tot_avg_loss: 0.4761 |
+[2024-03-11 19:54:46,752][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:54:46,752][train][INFO] - HIT@5: 0.0174|  NDCG@5: 0.0097| HIT@10: 0.0434|  NDCG@10: 0.0180| HIT@20: 0.1043|  NDCG@20: 0.0331
+[2024-03-11 19:54:46,760][train][INFO] - saving model after new best score: 0.0331
+[2024-03-11 19:54:50,752][train][INFO] - epoch: 129 || adv_avg_loss: 0.2199 |cl_avg_loss: 2.5373 | tot_avg_loss: 0.4737 |
+[2024-03-11 19:54:56,645][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:54:56,646][train][INFO] - HIT@5: 0.0167|  NDCG@5: 0.0088| HIT@10: 0.0412|  NDCG@10: 0.0167| HIT@20: 0.1035|  NDCG@20: 0.0322
+[2024-03-11 19:54:56,646][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:55:00,672][train][INFO] - epoch: 130 || adv_avg_loss: 0.2191 |cl_avg_loss: 2.5780 | tot_avg_loss: 0.4769 |
+[2024-03-11 19:55:06,498][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:55:06,498][train][INFO] - HIT@5: 0.0173|  NDCG@5: 0.0094| HIT@10: 0.0438|  NDCG@10: 0.0179| HIT@20: 0.1050|  NDCG@20: 0.0331
+[2024-03-11 19:55:06,506][train][INFO] - saving model after new best score: 0.0331
+[2024-03-11 19:55:10,485][train][INFO] - epoch: 131 || adv_avg_loss: 0.2179 |cl_avg_loss: 2.5613 | tot_avg_loss: 0.4740 |
+[2024-03-11 19:55:16,260][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:55:16,260][train][INFO] - HIT@5: 0.0178|  NDCG@5: 0.0098| HIT@10: 0.0424|  NDCG@10: 0.0176| HIT@20: 0.1049|  NDCG@20: 0.0332
+[2024-03-11 19:55:16,269][train][INFO] - saving model after new best score: 0.0332
+[2024-03-11 19:55:20,262][train][INFO] - epoch: 132 || adv_avg_loss: 0.2163 |cl_avg_loss: 2.5637 | tot_avg_loss: 0.4727 |
+[2024-03-11 19:55:26,086][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:55:26,086][train][INFO] - HIT@5: 0.0177|  NDCG@5: 0.0097| HIT@10: 0.0423|  NDCG@10: 0.0175| HIT@20: 0.1040|  NDCG@20: 0.0329
+[2024-03-11 19:55:26,090][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:55:30,070][train][INFO] - epoch: 133 || adv_avg_loss: 0.2142 |cl_avg_loss: 2.5801 | tot_avg_loss: 0.4722 |
+[2024-03-11 19:55:35,846][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:55:35,846][train][INFO] - HIT@5: 0.0180|  NDCG@5: 0.0100| HIT@10: 0.0441|  NDCG@10: 0.0183| HIT@20: 0.1047|  NDCG@20: 0.0333
+[2024-03-11 19:55:35,853][train][INFO] - saving model after new best score: 0.0333
+[2024-03-11 19:55:39,864][train][INFO] - epoch: 134 || adv_avg_loss: 0.2137 |cl_avg_loss: 2.5427 | tot_avg_loss: 0.4679 |
+[2024-03-11 19:55:45,685][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:55:45,685][train][INFO] - HIT@5: 0.0174|  NDCG@5: 0.0094| HIT@10: 0.0436|  NDCG@10: 0.0177| HIT@20: 0.1047|  NDCG@20: 0.0330
+[2024-03-11 19:55:45,685][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:55:49,696][train][INFO] - epoch: 135 || adv_avg_loss: 0.2110 |cl_avg_loss: 2.5124 | tot_avg_loss: 0.4622 |
+[2024-03-11 19:55:55,606][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:55:55,606][train][INFO] - HIT@5: 0.0176|  NDCG@5: 0.0097| HIT@10: 0.0439|  NDCG@10: 0.0180| HIT@20: 0.1055|  NDCG@20: 0.0334
+[2024-03-11 19:55:55,614][train][INFO] - saving model after new best score: 0.0334
+[2024-03-11 19:55:59,588][train][INFO] - epoch: 136 || adv_avg_loss: 0.2124 |cl_avg_loss: 2.5416 | tot_avg_loss: 0.4665 |
+[2024-03-11 19:56:05,344][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:56:05,344][train][INFO] - HIT@5: 0.0173|  NDCG@5: 0.0094| HIT@10: 0.0435|  NDCG@10: 0.0177| HIT@20: 0.1048|  NDCG@20: 0.0330
+[2024-03-11 19:56:05,344][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:56:09,320][train][INFO] - epoch: 137 || adv_avg_loss: 0.2118 |cl_avg_loss: 2.5415 | tot_avg_loss: 0.4659 |
+[2024-03-11 19:56:15,133][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:56:15,133][train][INFO] - HIT@5: 0.0171|  NDCG@5: 0.0094| HIT@10: 0.0423|  NDCG@10: 0.0174| HIT@20: 0.1061|  NDCG@20: 0.0333
+[2024-03-11 19:56:15,134][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:56:19,140][train][INFO] - epoch: 138 || adv_avg_loss: 0.2095 |cl_avg_loss: 2.5303 | tot_avg_loss: 0.4625 |
+[2024-03-11 19:56:24,986][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:56:24,986][train][INFO] - HIT@5: 0.0193|  NDCG@5: 0.0104| HIT@10: 0.0453|  NDCG@10: 0.0186| HIT@20: 0.1065|  NDCG@20: 0.0339
+[2024-03-11 19:56:24,994][train][INFO] - saving model after new best score: 0.0339
+[2024-03-11 19:56:28,968][train][INFO] - epoch: 139 || adv_avg_loss: 0.2066 |cl_avg_loss: 2.5394 | tot_avg_loss: 0.4605 |
+[2024-03-11 19:56:34,842][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:56:34,842][train][INFO] - HIT@5: 0.0167|  NDCG@5: 0.0093| HIT@10: 0.0431|  NDCG@10: 0.0178| HIT@20: 0.1050|  NDCG@20: 0.0331
+[2024-03-11 19:56:34,842][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:56:38,840][train][INFO] - epoch: 140 || adv_avg_loss: 0.2065 |cl_avg_loss: 2.5366 | tot_avg_loss: 0.4601 |
+[2024-03-11 19:56:44,615][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:56:44,615][train][INFO] - HIT@5: 0.0179|  NDCG@5: 0.0100| HIT@10: 0.0444|  NDCG@10: 0.0184| HIT@20: 0.1078|  NDCG@20: 0.0342
+[2024-03-11 19:56:44,623][train][INFO] - saving model after new best score: 0.0342
+[2024-03-11 19:56:48,600][train][INFO] - epoch: 141 || adv_avg_loss: 0.2053 |cl_avg_loss: 2.5032 | tot_avg_loss: 0.4556 |
+[2024-03-11 19:56:54,417][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:56:54,417][train][INFO] - HIT@5: 0.0174|  NDCG@5: 0.0095| HIT@10: 0.0445|  NDCG@10: 0.0181| HIT@20: 0.1077|  NDCG@20: 0.0339
+[2024-03-11 19:56:54,420][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:56:58,413][train][INFO] - epoch: 142 || adv_avg_loss: 0.2050 |cl_avg_loss: 2.5243 | tot_avg_loss: 0.4574 |
+[2024-03-11 19:57:04,271][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:57:04,271][train][INFO] - HIT@5: 0.0175|  NDCG@5: 0.0096| HIT@10: 0.0431|  NDCG@10: 0.0178| HIT@20: 0.1055|  NDCG@20: 0.0334
+[2024-03-11 19:57:04,271][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:57:08,251][train][INFO] - epoch: 143 || adv_avg_loss: 0.2031 |cl_avg_loss: 2.5358 | tot_avg_loss: 0.4566 |
+[2024-03-11 19:57:14,088][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:57:14,088][train][INFO] - HIT@5: 0.0182|  NDCG@5: 0.0101| HIT@10: 0.0444|  NDCG@10: 0.0184| HIT@20: 0.1087|  NDCG@20: 0.0344
+[2024-03-11 19:57:14,096][train][INFO] - saving model after new best score: 0.0344
+[2024-03-11 19:57:18,088][train][INFO] - epoch: 144 || adv_avg_loss: 0.2033 |cl_avg_loss: 2.5194 | tot_avg_loss: 0.4552 |
+[2024-03-11 19:57:23,963][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:57:23,963][train][INFO] - HIT@5: 0.0200|  NDCG@5: 0.0109| HIT@10: 0.0457|  NDCG@10: 0.0191| HIT@20: 0.1091|  NDCG@20: 0.0349
+[2024-03-11 19:57:23,971][train][INFO] - saving model after new best score: 0.0349
+[2024-03-11 19:57:27,976][train][INFO] - epoch: 145 || adv_avg_loss: 0.2012 |cl_avg_loss: 2.5392 | tot_avg_loss: 0.4551 |
+[2024-03-11 19:57:33,773][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:57:33,773][train][INFO] - HIT@5: 0.0195|  NDCG@5: 0.0104| HIT@10: 0.0455|  NDCG@10: 0.0187| HIT@20: 0.1086|  NDCG@20: 0.0344
+[2024-03-11 19:57:33,773][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:57:37,775][train][INFO] - epoch: 146 || adv_avg_loss: 0.2006 |cl_avg_loss: 2.5346 | tot_avg_loss: 0.4540 |
+[2024-03-11 19:57:43,600][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:57:43,600][train][INFO] - HIT@5: 0.0188|  NDCG@5: 0.0104| HIT@10: 0.0452|  NDCG@10: 0.0188| HIT@20: 0.1099|  NDCG@20: 0.0349
+[2024-03-11 19:57:43,607][train][INFO] - saving model after new best score: 0.0349
+[2024-03-11 19:57:47,592][train][INFO] - epoch: 147 || adv_avg_loss: 0.2005 |cl_avg_loss: 2.5230 | tot_avg_loss: 0.4528 |
+[2024-03-11 19:57:53,399][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:57:53,399][train][INFO] - HIT@5: 0.0198|  NDCG@5: 0.0107| HIT@10: 0.0479|  NDCG@10: 0.0197| HIT@20: 0.1107|  NDCG@20: 0.0353
+[2024-03-11 19:57:53,407][train][INFO] - saving model after new best score: 0.0353
+[2024-03-11 19:57:57,393][train][INFO] - epoch: 148 || adv_avg_loss: 0.1992 |cl_avg_loss: 2.5195 | tot_avg_loss: 0.4511 |
+[2024-03-11 19:58:03,319][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:58:03,319][train][INFO] - HIT@5: 0.0190|  NDCG@5: 0.0106| HIT@10: 0.0464|  NDCG@10: 0.0193| HIT@20: 0.1096|  NDCG@20: 0.0351
+[2024-03-11 19:58:03,319][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:58:07,308][train][INFO] - epoch: 149 || adv_avg_loss: 0.1979 |cl_avg_loss: 2.5376 | tot_avg_loss: 0.4517 |
+[2024-03-11 19:58:13,153][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:58:13,154][train][INFO] - HIT@5: 0.0166|  NDCG@5: 0.0094| HIT@10: 0.0452|  NDCG@10: 0.0184| HIT@20: 0.1105|  NDCG@20: 0.0347
+[2024-03-11 19:58:13,154][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:58:17,168][train][INFO] - epoch: 150 || adv_avg_loss: 0.1977 |cl_avg_loss: 2.5215 | tot_avg_loss: 0.4499 |
+[2024-03-11 19:58:23,120][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:58:23,121][train][INFO] - HIT@5: 0.0196|  NDCG@5: 0.0110| HIT@10: 0.0452|  NDCG@10: 0.0192| HIT@20: 0.1116|  NDCG@20: 0.0357
+[2024-03-11 19:58:23,128][train][INFO] - saving model after new best score: 0.0357
+[2024-03-11 19:58:27,113][train][INFO] - epoch: 151 || adv_avg_loss: 0.1962 |cl_avg_loss: 2.4978 | tot_avg_loss: 0.4460 |
+[2024-03-11 19:58:32,996][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:58:32,996][train][INFO] - HIT@5: 0.0181|  NDCG@5: 0.0101| HIT@10: 0.0450|  NDCG@10: 0.0186| HIT@20: 0.1097|  NDCG@20: 0.0347
+[2024-03-11 19:58:32,996][train][INFO] - current early stop cnter: 1
+[2024-03-11 19:58:36,977][train][INFO] - epoch: 152 || adv_avg_loss: 0.1957 |cl_avg_loss: 2.5281 | tot_avg_loss: 0.4485 |
+[2024-03-11 19:58:42,863][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:58:42,863][train][INFO] - HIT@5: 0.0183|  NDCG@5: 0.0101| HIT@10: 0.0462|  NDCG@10: 0.0189| HIT@20: 0.1111|  NDCG@20: 0.0351
+[2024-03-11 19:58:42,863][train][INFO] - current early stop cnter: 2
+[2024-03-11 19:58:46,841][train][INFO] - epoch: 153 || adv_avg_loss: 0.1935 |cl_avg_loss: 2.5496 | tot_avg_loss: 0.4485 |
+[2024-03-11 19:58:52,771][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:58:52,771][train][INFO] - HIT@5: 0.0189|  NDCG@5: 0.0102| HIT@10: 0.0475|  NDCG@10: 0.0192| HIT@20: 0.1108|  NDCG@20: 0.0350
+[2024-03-11 19:58:52,771][train][INFO] - current early stop cnter: 3
+[2024-03-11 19:58:56,767][train][INFO] - epoch: 154 || adv_avg_loss: 0.1942 |cl_avg_loss: 2.5117 | tot_avg_loss: 0.4454 |
+[2024-03-11 19:59:02,763][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:59:02,763][train][INFO] - HIT@5: 0.0168|  NDCG@5: 0.0095| HIT@10: 0.0450|  NDCG@10: 0.0185| HIT@20: 0.1105|  NDCG@20: 0.0348
+[2024-03-11 19:59:02,766][train][INFO] - current early stop cnter: 4
+[2024-03-11 19:59:06,765][train][INFO] - epoch: 155 || adv_avg_loss: 0.1919 |cl_avg_loss: 2.5074 | tot_avg_loss: 0.4426 |
+[2024-03-11 19:59:12,640][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:59:12,640][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0109| HIT@10: 0.0470|  NDCG@10: 0.0193| HIT@20: 0.1103|  NDCG@20: 0.0351
+[2024-03-11 19:59:12,642][train][INFO] - current early stop cnter: 5
+[2024-03-11 19:59:16,629][train][INFO] - epoch: 156 || adv_avg_loss: 0.1912 |cl_avg_loss: 2.5535 | tot_avg_loss: 0.4465 |
+[2024-03-11 19:59:22,518][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:59:22,518][train][INFO] - HIT@5: 0.0197|  NDCG@5: 0.0110| HIT@10: 0.0461|  NDCG@10: 0.0193| HIT@20: 0.1094|  NDCG@20: 0.0351
+[2024-03-11 19:59:22,518][train][INFO] - current early stop cnter: 6
+[2024-03-11 19:59:26,503][train][INFO] - epoch: 157 || adv_avg_loss: 0.1913 |cl_avg_loss: 2.4892 | tot_avg_loss: 0.4402 |
+[2024-03-11 19:59:32,384][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:59:32,384][train][INFO] - HIT@5: 0.0174|  NDCG@5: 0.0097| HIT@10: 0.0449|  NDCG@10: 0.0184| HIT@20: 0.1097|  NDCG@20: 0.0346
+[2024-03-11 19:59:32,385][train][INFO] - current early stop cnter: 7
+[2024-03-11 19:59:36,392][train][INFO] - epoch: 158 || adv_avg_loss: 0.1902 |cl_avg_loss: 2.5062 | tot_avg_loss: 0.4408 |
+[2024-03-11 19:59:42,284][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:59:42,285][train][INFO] - HIT@5: 0.0182|  NDCG@5: 0.0102| HIT@10: 0.0448|  NDCG@10: 0.0187| HIT@20: 0.1098|  NDCG@20: 0.0349
+[2024-03-11 19:59:42,287][train][INFO] - current early stop cnter: 8
+[2024-03-11 19:59:46,267][train][INFO] - epoch: 159 || adv_avg_loss: 0.1898 |cl_avg_loss: 2.4743 | tot_avg_loss: 0.4373 |
+[2024-03-11 19:59:52,185][train][INFO] - ---------valid result! ----------
+[2024-03-11 19:59:52,185][train][INFO] - HIT@5: 0.0174|  NDCG@5: 0.0096| HIT@10: 0.0457|  NDCG@10: 0.0186| HIT@20: 0.1106|  NDCG@20: 0.0348
+[2024-03-11 19:59:52,185][train][INFO] - current early stop cnter: 9
+[2024-03-11 19:59:56,194][train][INFO] - epoch: 160 || adv_avg_loss: 0.1892 |cl_avg_loss: 2.4981 | tot_avg_loss: 0.4390 |
+[2024-03-11 20:00:02,141][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:00:02,141][train][INFO] - HIT@5: 0.0177|  NDCG@5: 0.0098| HIT@10: 0.0454|  NDCG@10: 0.0186| HIT@20: 0.1104|  NDCG@20: 0.0348
+[2024-03-11 20:00:02,141][train][INFO] - current early stop cnter: 10
+[2024-03-11 20:00:06,124][train][INFO] - epoch: 161 || adv_avg_loss: 0.1862 |cl_avg_loss: 2.4896 | tot_avg_loss: 0.4352 |
+[2024-03-11 20:00:11,972][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:00:11,972][train][INFO] - HIT@5: 0.0178|  NDCG@5: 0.0100| HIT@10: 0.0454|  NDCG@10: 0.0188| HIT@20: 0.1123|  NDCG@20: 0.0355
+[2024-03-11 20:00:11,973][train][INFO] - current early stop cnter: 11
+[2024-03-11 20:00:15,981][train][INFO] - epoch: 162 || adv_avg_loss: 0.1880 |cl_avg_loss: 2.5064 | tot_avg_loss: 0.4386 |
+[2024-03-11 20:00:21,829][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:00:21,829][train][INFO] - HIT@5: 0.0188|  NDCG@5: 0.0104| HIT@10: 0.0457|  NDCG@10: 0.0190| HIT@20: 0.1101|  NDCG@20: 0.0350
+[2024-03-11 20:00:21,829][train][INFO] - current early stop cnter: 12
+[2024-03-11 20:00:25,811][train][INFO] - epoch: 163 || adv_avg_loss: 0.1866 |cl_avg_loss: 2.4815 | tot_avg_loss: 0.4347 |
+[2024-03-11 20:00:31,663][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:00:31,663][train][INFO] - HIT@5: 0.0182|  NDCG@5: 0.0103| HIT@10: 0.0437|  NDCG@10: 0.0184| HIT@20: 0.1102|  NDCG@20: 0.0350
+[2024-03-11 20:00:31,663][train][INFO] - current early stop cnter: 13
+[2024-03-11 20:00:35,648][train][INFO] - epoch: 164 || adv_avg_loss: 0.1877 |cl_avg_loss: 2.5146 | tot_avg_loss: 0.4391 |
+[2024-03-11 20:00:41,598][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:00:41,598][train][INFO] - HIT@5: 0.0192|  NDCG@5: 0.0103| HIT@10: 0.0447|  NDCG@10: 0.0184| HIT@20: 0.1109|  NDCG@20: 0.0349
+[2024-03-11 20:00:41,598][train][INFO] - current early stop cnter: 14
+[2024-03-11 20:00:45,603][train][INFO] - epoch: 165 || adv_avg_loss: 0.1853 |cl_avg_loss: 2.4890 | tot_avg_loss: 0.4342 |
+[2024-03-11 20:00:51,504][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:00:51,504][train][INFO] - HIT@5: 0.0179|  NDCG@5: 0.0099| HIT@10: 0.0450|  NDCG@10: 0.0184| HIT@20: 0.1110|  NDCG@20: 0.0349
+[2024-03-11 20:00:51,504][train][INFO] - current early stop cnter: 15
+[2024-03-11 20:00:55,510][train][INFO] - epoch: 166 || adv_avg_loss: 0.1831 |cl_avg_loss: 2.4735 | tot_avg_loss: 0.4305 |
+[2024-03-11 20:01:01,427][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:01:01,427][train][INFO] - HIT@5: 0.0196|  NDCG@5: 0.0109| HIT@10: 0.0474|  NDCG@10: 0.0197| HIT@20: 0.1124|  NDCG@20: 0.0359
+[2024-03-11 20:01:01,435][train][INFO] - saving model after new best score: 0.0359
+[2024-03-11 20:01:05,418][train][INFO] - epoch: 167 || adv_avg_loss: 0.1836 |cl_avg_loss: 2.4914 | tot_avg_loss: 0.4327 |
+[2024-03-11 20:01:11,362][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:01:11,362][train][INFO] - HIT@5: 0.0182|  NDCG@5: 0.0104| HIT@10: 0.0457|  NDCG@10: 0.0191| HIT@20: 0.1134|  NDCG@20: 0.0360
+[2024-03-11 20:01:11,371][train][INFO] - saving model after new best score: 0.0360
+[2024-03-11 20:01:15,351][train][INFO] - epoch: 168 || adv_avg_loss: 0.1823 |cl_avg_loss: 2.4599 | tot_avg_loss: 0.4283 |
+[2024-03-11 20:01:21,187][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:01:21,188][train][INFO] - HIT@5: 0.0185|  NDCG@5: 0.0106| HIT@10: 0.0468|  NDCG@10: 0.0196| HIT@20: 0.1127|  NDCG@20: 0.0360
+[2024-03-11 20:01:21,188][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:01:25,170][train][INFO] - epoch: 169 || adv_avg_loss: 0.1809 |cl_avg_loss: 2.4802 | tot_avg_loss: 0.4289 |
+[2024-03-11 20:01:31,046][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:01:31,047][train][INFO] - HIT@5: 0.0190|  NDCG@5: 0.0107| HIT@10: 0.0488|  NDCG@10: 0.0202| HIT@20: 0.1145|  NDCG@20: 0.0365
+[2024-03-11 20:01:31,056][train][INFO] - saving model after new best score: 0.0365
+[2024-03-11 20:01:35,080][train][INFO] - epoch: 170 || adv_avg_loss: 0.1815 |cl_avg_loss: 2.4698 | tot_avg_loss: 0.4284 |
+[2024-03-11 20:01:40,950][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:01:40,950][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0109| HIT@10: 0.0478|  NDCG@10: 0.0197| HIT@20: 0.1158|  NDCG@20: 0.0367
+[2024-03-11 20:01:40,958][train][INFO] - saving model after new best score: 0.0367
+[2024-03-11 20:01:44,932][train][INFO] - epoch: 171 || adv_avg_loss: 0.1800 |cl_avg_loss: 2.4882 | tot_avg_loss: 0.4288 |
+[2024-03-11 20:01:50,750][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:01:50,750][train][INFO] - HIT@5: 0.0195|  NDCG@5: 0.0107| HIT@10: 0.0484|  NDCG@10: 0.0198| HIT@20: 0.1129|  NDCG@20: 0.0359
+[2024-03-11 20:01:50,750][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:01:54,728][train][INFO] - epoch: 172 || adv_avg_loss: 0.1798 |cl_avg_loss: 2.4586 | tot_avg_loss: 0.4257 |
+[2024-03-11 20:02:00,677][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:02:00,677][train][INFO] - HIT@5: 0.0177|  NDCG@5: 0.0099| HIT@10: 0.0470|  NDCG@10: 0.0192| HIT@20: 0.1137|  NDCG@20: 0.0359
+[2024-03-11 20:02:00,677][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:02:04,650][train][INFO] - epoch: 173 || adv_avg_loss: 0.1791 |cl_avg_loss: 2.4927 | tot_avg_loss: 0.4284 |
+[2024-03-11 20:02:10,465][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:02:10,465][train][INFO] - HIT@5: 0.0195|  NDCG@5: 0.0108| HIT@10: 0.0454|  NDCG@10: 0.0190| HIT@20: 0.1134|  NDCG@20: 0.0359
+[2024-03-11 20:02:10,465][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:02:14,467][train][INFO] - epoch: 174 || adv_avg_loss: 0.1782 |cl_avg_loss: 2.4636 | tot_avg_loss: 0.4246 |
+[2024-03-11 20:02:20,374][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:02:20,374][train][INFO] - HIT@5: 0.0188|  NDCG@5: 0.0104| HIT@10: 0.0471|  NDCG@10: 0.0194| HIT@20: 0.1123|  NDCG@20: 0.0356
+[2024-03-11 20:02:20,374][train][INFO] - current early stop cnter: 4
+[2024-03-11 20:02:24,370][train][INFO] - epoch: 175 || adv_avg_loss: 0.1789 |cl_avg_loss: 2.5121 | tot_avg_loss: 0.4302 |
+[2024-03-11 20:02:30,327][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:02:30,327][train][INFO] - HIT@5: 0.0191|  NDCG@5: 0.0107| HIT@10: 0.0458|  NDCG@10: 0.0192| HIT@20: 0.1142|  NDCG@20: 0.0362
+[2024-03-11 20:02:30,328][train][INFO] - current early stop cnter: 5
+[2024-03-11 20:02:34,302][train][INFO] - epoch: 176 || adv_avg_loss: 0.1756 |cl_avg_loss: 2.4527 | tot_avg_loss: 0.4209 |
+[2024-03-11 20:02:40,251][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:02:40,251][train][INFO] - HIT@5: 0.0182|  NDCG@5: 0.0103| HIT@10: 0.0465|  NDCG@10: 0.0192| HIT@20: 0.1151|  NDCG@20: 0.0363
+[2024-03-11 20:02:40,251][train][INFO] - current early stop cnter: 6
+[2024-03-11 20:02:44,227][train][INFO] - epoch: 177 || adv_avg_loss: 0.1765 |cl_avg_loss: 2.4921 | tot_avg_loss: 0.4257 |
+[2024-03-11 20:02:50,065][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:02:50,066][train][INFO] - HIT@5: 0.0182|  NDCG@5: 0.0099| HIT@10: 0.0479|  NDCG@10: 0.0194| HIT@20: 0.1153|  NDCG@20: 0.0362
+[2024-03-11 20:02:50,066][train][INFO] - current early stop cnter: 7
+[2024-03-11 20:02:54,065][train][INFO] - epoch: 178 || adv_avg_loss: 0.1766 |cl_avg_loss: 2.4811 | tot_avg_loss: 0.4247 |
+[2024-03-11 20:03:00,061][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:03:00,061][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0114| HIT@10: 0.0483|  NDCG@10: 0.0203| HIT@20: 0.1160|  NDCG@20: 0.0371
+[2024-03-11 20:03:00,069][train][INFO] - saving model after new best score: 0.0371
+[2024-03-11 20:03:04,044][train][INFO] - epoch: 179 || adv_avg_loss: 0.1741 |cl_avg_loss: 2.4681 | tot_avg_loss: 0.4209 |
+[2024-03-11 20:03:09,959][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:03:09,959][train][INFO] - HIT@5: 0.0192|  NDCG@5: 0.0107| HIT@10: 0.0473|  NDCG@10: 0.0196| HIT@20: 0.1140|  NDCG@20: 0.0363
+[2024-03-11 20:03:09,959][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:03:13,955][train][INFO] - epoch: 180 || adv_avg_loss: 0.1739 |cl_avg_loss: 2.4680 | tot_avg_loss: 0.4207 |
+[2024-03-11 20:03:19,890][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:03:19,890][train][INFO] - HIT@5: 0.0204|  NDCG@5: 0.0113| HIT@10: 0.0461|  NDCG@10: 0.0195| HIT@20: 0.1150|  NDCG@20: 0.0367
+[2024-03-11 20:03:19,891][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:03:23,864][train][INFO] - epoch: 181 || adv_avg_loss: 0.1732 |cl_avg_loss: 2.4911 | tot_avg_loss: 0.4224 |
+[2024-03-11 20:03:29,752][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:03:29,752][train][INFO] - HIT@5: 0.0210|  NDCG@5: 0.0120| HIT@10: 0.0480|  NDCG@10: 0.0206| HIT@20: 0.1168|  NDCG@20: 0.0377
+[2024-03-11 20:03:29,760][train][INFO] - saving model after new best score: 0.0377
+[2024-03-11 20:03:33,760][train][INFO] - epoch: 182 || adv_avg_loss: 0.1724 |cl_avg_loss: 2.4713 | tot_avg_loss: 0.4195 |
+[2024-03-11 20:03:39,655][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:03:39,656][train][INFO] - HIT@5: 0.0201|  NDCG@5: 0.0112| HIT@10: 0.0486|  NDCG@10: 0.0202| HIT@20: 0.1164|  NDCG@20: 0.0371
+[2024-03-11 20:03:39,656][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:03:43,632][train][INFO] - epoch: 183 || adv_avg_loss: 0.1728 |cl_avg_loss: 2.4715 | tot_avg_loss: 0.4200 |
+[2024-03-11 20:03:49,593][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:03:49,593][train][INFO] - HIT@5: 0.0201|  NDCG@5: 0.0114| HIT@10: 0.0491|  NDCG@10: 0.0206| HIT@20: 0.1158|  NDCG@20: 0.0372
+[2024-03-11 20:03:49,593][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:03:53,574][train][INFO] - epoch: 184 || adv_avg_loss: 0.1710 |cl_avg_loss: 2.4391 | tot_avg_loss: 0.4149 |
+[2024-03-11 20:03:59,523][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:03:59,523][train][INFO] - HIT@5: 0.0194|  NDCG@5: 0.0107| HIT@10: 0.0483|  NDCG@10: 0.0200| HIT@20: 0.1181|  NDCG@20: 0.0373
+[2024-03-11 20:03:59,523][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:04:03,515][train][INFO] - epoch: 185 || adv_avg_loss: 0.1714 |cl_avg_loss: 2.4557 | tot_avg_loss: 0.4169 |
+[2024-03-11 20:04:09,553][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:04:09,553][train][INFO] - HIT@5: 0.0195|  NDCG@5: 0.0109| HIT@10: 0.0508|  NDCG@10: 0.0209| HIT@20: 0.1168|  NDCG@20: 0.0373
+[2024-03-11 20:04:09,554][train][INFO] - current early stop cnter: 4
+[2024-03-11 20:04:13,556][train][INFO] - epoch: 186 || adv_avg_loss: 0.1702 |cl_avg_loss: 2.4448 | tot_avg_loss: 0.4146 |
+[2024-03-11 20:04:19,507][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:04:19,507][train][INFO] - HIT@5: 0.0190|  NDCG@5: 0.0107| HIT@10: 0.0488|  NDCG@10: 0.0201| HIT@20: 0.1185|  NDCG@20: 0.0375
+[2024-03-11 20:04:19,507][train][INFO] - current early stop cnter: 5
+[2024-03-11 20:04:23,481][train][INFO] - epoch: 187 || adv_avg_loss: 0.1690 |cl_avg_loss: 2.4430 | tot_avg_loss: 0.4133 |
+[2024-03-11 20:04:29,381][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:04:29,381][train][INFO] - HIT@5: 0.0190|  NDCG@5: 0.0104| HIT@10: 0.0474|  NDCG@10: 0.0194| HIT@20: 0.1173|  NDCG@20: 0.0368
+[2024-03-11 20:04:29,381][train][INFO] - current early stop cnter: 6
+[2024-03-11 20:04:33,362][train][INFO] - epoch: 188 || adv_avg_loss: 0.1709 |cl_avg_loss: 2.4652 | tot_avg_loss: 0.4174 |
+[2024-03-11 20:04:39,196][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:04:39,196][train][INFO] - HIT@5: 0.0199|  NDCG@5: 0.0113| HIT@10: 0.0485|  NDCG@10: 0.0204| HIT@20: 0.1176|  NDCG@20: 0.0376
+[2024-03-11 20:04:39,196][train][INFO] - current early stop cnter: 7
+[2024-03-11 20:04:43,180][train][INFO] - epoch: 189 || adv_avg_loss: 0.1692 |cl_avg_loss: 2.4518 | tot_avg_loss: 0.4144 |
+[2024-03-11 20:04:49,110][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:04:49,111][train][INFO] - HIT@5: 0.0187|  NDCG@5: 0.0103| HIT@10: 0.0462|  NDCG@10: 0.0191| HIT@20: 0.1169|  NDCG@20: 0.0368
+[2024-03-11 20:04:49,113][train][INFO] - current early stop cnter: 8
+[2024-03-11 20:04:53,146][train][INFO] - epoch: 190 || adv_avg_loss: 0.1677 |cl_avg_loss: 2.4520 | tot_avg_loss: 0.4129 |
+[2024-03-11 20:04:59,054][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:04:59,054][train][INFO] - HIT@5: 0.0200|  NDCG@5: 0.0108| HIT@10: 0.0491|  NDCG@10: 0.0201| HIT@20: 0.1181|  NDCG@20: 0.0373
+[2024-03-11 20:04:59,058][train][INFO] - current early stop cnter: 9
+[2024-03-11 20:05:03,039][train][INFO] - epoch: 191 || adv_avg_loss: 0.1659 |cl_avg_loss: 2.4370 | tot_avg_loss: 0.4096 |
+[2024-03-11 20:05:08,919][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:05:08,919][train][INFO] - HIT@5: 0.0212|  NDCG@5: 0.0117| HIT@10: 0.0506|  NDCG@10: 0.0211| HIT@20: 0.1181|  NDCG@20: 0.0379
+[2024-03-11 20:05:08,929][train][INFO] - saving model after new best score: 0.0379
+[2024-03-11 20:05:12,913][train][INFO] - epoch: 192 || adv_avg_loss: 0.1669 |cl_avg_loss: 2.4421 | tot_avg_loss: 0.4111 |
+[2024-03-11 20:05:18,837][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:05:18,837][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0111| HIT@10: 0.0496|  NDCG@10: 0.0205| HIT@20: 0.1180|  NDCG@20: 0.0375
+[2024-03-11 20:05:18,837][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:05:22,825][train][INFO] - epoch: 193 || adv_avg_loss: 0.1664 |cl_avg_loss: 2.4201 | tot_avg_loss: 0.4084 |
+[2024-03-11 20:05:28,756][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:05:28,756][train][INFO] - HIT@5: 0.0208|  NDCG@5: 0.0112| HIT@10: 0.0493|  NDCG@10: 0.0203| HIT@20: 0.1190|  NDCG@20: 0.0376
+[2024-03-11 20:05:28,756][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:05:32,761][train][INFO] - epoch: 194 || adv_avg_loss: 0.1670 |cl_avg_loss: 2.4600 | tot_avg_loss: 0.4130 |
+[2024-03-11 20:05:38,790][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:05:38,790][train][INFO] - HIT@5: 0.0201|  NDCG@5: 0.0112| HIT@10: 0.0488|  NDCG@10: 0.0203| HIT@20: 0.1186|  NDCG@20: 0.0377
+[2024-03-11 20:05:38,790][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:05:42,802][train][INFO] - epoch: 195 || adv_avg_loss: 0.1653 |cl_avg_loss: 2.4324 | tot_avg_loss: 0.4085 |
+[2024-03-11 20:05:48,694][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:05:48,694][train][INFO] - HIT@5: 0.0205|  NDCG@5: 0.0116| HIT@10: 0.0491|  NDCG@10: 0.0207| HIT@20: 0.1197|  NDCG@20: 0.0382
+[2024-03-11 20:05:48,702][train][INFO] - saving model after new best score: 0.0382
+[2024-03-11 20:05:52,696][train][INFO] - epoch: 196 || adv_avg_loss: 0.1643 |cl_avg_loss: 2.4786 | tot_avg_loss: 0.4122 |
+[2024-03-11 20:05:58,592][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:05:58,593][train][INFO] - HIT@5: 0.0205|  NDCG@5: 0.0115| HIT@10: 0.0503|  NDCG@10: 0.0209| HIT@20: 0.1190|  NDCG@20: 0.0380
+[2024-03-11 20:05:58,593][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:06:02,571][train][INFO] - epoch: 197 || adv_avg_loss: 0.1645 |cl_avg_loss: 2.4440 | tot_avg_loss: 0.4089 |
+[2024-03-11 20:06:08,418][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:06:08,418][train][INFO] - HIT@5: 0.0195|  NDCG@5: 0.0110| HIT@10: 0.0502|  NDCG@10: 0.0207| HIT@20: 0.1177|  NDCG@20: 0.0376
+[2024-03-11 20:06:08,420][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:06:12,417][train][INFO] - epoch: 198 || adv_avg_loss: 0.1645 |cl_avg_loss: 2.4482 | tot_avg_loss: 0.4093 |
+[2024-03-11 20:06:18,276][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:06:18,276][train][INFO] - HIT@5: 0.0189|  NDCG@5: 0.0104| HIT@10: 0.0464|  NDCG@10: 0.0191| HIT@20: 0.1183|  NDCG@20: 0.0370
+[2024-03-11 20:06:18,279][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:06:22,259][train][INFO] - epoch: 199 || adv_avg_loss: 0.1622 |cl_avg_loss: 2.4802 | tot_avg_loss: 0.4102 |
+[2024-03-11 20:06:28,121][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:06:28,121][train][INFO] - HIT@5: 0.0190|  NDCG@5: 0.0108| HIT@10: 0.0469|  NDCG@10: 0.0197| HIT@20: 0.1175|  NDCG@20: 0.0373
+[2024-03-11 20:06:28,122][train][INFO] - current early stop cnter: 4
+[2024-03-11 20:06:32,136][train][INFO] - epoch: 200 || adv_avg_loss: 0.1627 |cl_avg_loss: 2.4390 | tot_avg_loss: 0.4066 |
+[2024-03-11 20:06:38,086][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:06:38,086][train][INFO] - HIT@5: 0.0207|  NDCG@5: 0.0119| HIT@10: 0.0504|  NDCG@10: 0.0213| HIT@20: 0.1189|  NDCG@20: 0.0383
+[2024-03-11 20:06:38,094][train][INFO] - saving model after new best score: 0.0383
+[2024-03-11 20:06:42,077][train][INFO] - epoch: 201 || adv_avg_loss: 0.1617 |cl_avg_loss: 2.4331 | tot_avg_loss: 0.4050 |
+[2024-03-11 20:06:48,014][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:06:48,014][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0109| HIT@10: 0.0490|  NDCG@10: 0.0200| HIT@20: 0.1187|  NDCG@20: 0.0375
+[2024-03-11 20:06:48,017][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:06:52,020][train][INFO] - epoch: 202 || adv_avg_loss: 0.1608 |cl_avg_loss: 2.4457 | tot_avg_loss: 0.4054 |
+[2024-03-11 20:06:57,983][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:06:57,984][train][INFO] - HIT@5: 0.0207|  NDCG@5: 0.0115| HIT@10: 0.0505|  NDCG@10: 0.0209| HIT@20: 0.1192|  NDCG@20: 0.0380
+[2024-03-11 20:06:57,984][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:07:01,964][train][INFO] - epoch: 203 || adv_avg_loss: 0.1597 |cl_avg_loss: 2.4486 | tot_avg_loss: 0.4046 |
+[2024-03-11 20:07:07,951][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:07:07,951][train][INFO] - HIT@5: 0.0197|  NDCG@5: 0.0107| HIT@10: 0.0499|  NDCG@10: 0.0202| HIT@20: 0.1188|  NDCG@20: 0.0373
+[2024-03-11 20:07:07,951][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:07:11,934][train][INFO] - epoch: 204 || adv_avg_loss: 0.1599 |cl_avg_loss: 2.4270 | tot_avg_loss: 0.4026 |
+[2024-03-11 20:07:17,871][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:07:17,871][train][INFO] - HIT@5: 0.0201|  NDCG@5: 0.0109| HIT@10: 0.0505|  NDCG@10: 0.0205| HIT@20: 0.1189|  NDCG@20: 0.0375
+[2024-03-11 20:07:17,871][train][INFO] - current early stop cnter: 4
+[2024-03-11 20:07:21,881][train][INFO] - epoch: 205 || adv_avg_loss: 0.1602 |cl_avg_loss: 2.4085 | tot_avg_loss: 0.4010 |
+[2024-03-11 20:07:27,779][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:07:27,779][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0112| HIT@10: 0.0501|  NDCG@10: 0.0206| HIT@20: 0.1184|  NDCG@20: 0.0375
+[2024-03-11 20:07:27,779][train][INFO] - current early stop cnter: 5
+[2024-03-11 20:07:31,777][train][INFO] - epoch: 206 || adv_avg_loss: 0.1589 |cl_avg_loss: 2.4323 | tot_avg_loss: 0.4022 |
+[2024-03-11 20:07:37,813][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:07:37,813][train][INFO] - HIT@5: 0.0199|  NDCG@5: 0.0106| HIT@10: 0.0475|  NDCG@10: 0.0193| HIT@20: 0.1193|  NDCG@20: 0.0372
+[2024-03-11 20:07:37,813][train][INFO] - current early stop cnter: 6
+[2024-03-11 20:07:41,788][train][INFO] - epoch: 207 || adv_avg_loss: 0.1580 |cl_avg_loss: 2.3791 | tot_avg_loss: 0.3959 |
+[2024-03-11 20:07:47,705][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:07:47,705][train][INFO] - HIT@5: 0.0214|  NDCG@5: 0.0120| HIT@10: 0.0511|  NDCG@10: 0.0214| HIT@20: 0.1189|  NDCG@20: 0.0383
+[2024-03-11 20:07:47,705][train][INFO] - current early stop cnter: 7
+[2024-03-11 20:07:51,681][train][INFO] - epoch: 208 || adv_avg_loss: 0.1578 |cl_avg_loss: 2.4559 | tot_avg_loss: 0.4034 |
+[2024-03-11 20:07:57,560][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:07:57,560][train][INFO] - HIT@5: 0.0216|  NDCG@5: 0.0119| HIT@10: 0.0497|  NDCG@10: 0.0209| HIT@20: 0.1180|  NDCG@20: 0.0379
+[2024-03-11 20:07:57,560][train][INFO] - current early stop cnter: 8
+[2024-03-11 20:08:01,531][train][INFO] - epoch: 209 || adv_avg_loss: 0.1568 |cl_avg_loss: 2.3818 | tot_avg_loss: 0.3950 |
+[2024-03-11 20:08:07,343][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:08:07,343][train][INFO] - HIT@5: 0.0212|  NDCG@5: 0.0123| HIT@10: 0.0500|  NDCG@10: 0.0215| HIT@20: 0.1193|  NDCG@20: 0.0388
+[2024-03-11 20:08:07,353][train][INFO] - saving model after new best score: 0.0388
+[2024-03-11 20:08:11,365][train][INFO] - epoch: 210 || adv_avg_loss: 0.1567 |cl_avg_loss: 2.4001 | tot_avg_loss: 0.3967 |
+[2024-03-11 20:08:17,253][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:08:17,253][train][INFO] - HIT@5: 0.0198|  NDCG@5: 0.0111| HIT@10: 0.0493|  NDCG@10: 0.0205| HIT@20: 0.1186|  NDCG@20: 0.0377
+[2024-03-11 20:08:17,253][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:08:21,221][train][INFO] - epoch: 211 || adv_avg_loss: 0.1567 |cl_avg_loss: 2.4054 | tot_avg_loss: 0.3973 |
+[2024-03-11 20:08:27,004][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:08:27,004][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0113| HIT@10: 0.0499|  NDCG@10: 0.0207| HIT@20: 0.1187|  NDCG@20: 0.0379
+[2024-03-11 20:08:27,004][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:08:30,971][train][INFO] - epoch: 212 || adv_avg_loss: 0.1564 |cl_avg_loss: 2.4124 | tot_avg_loss: 0.3976 |
+[2024-03-11 20:08:36,995][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:08:36,995][train][INFO] - HIT@5: 0.0212|  NDCG@5: 0.0121| HIT@10: 0.0519|  NDCG@10: 0.0218| HIT@20: 0.1210|  NDCG@20: 0.0390
+[2024-03-11 20:08:37,004][train][INFO] - saving model after new best score: 0.0390
+[2024-03-11 20:08:40,971][train][INFO] - epoch: 213 || adv_avg_loss: 0.1566 |cl_avg_loss: 2.4038 | tot_avg_loss: 0.3970 |
+[2024-03-11 20:08:46,994][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:08:46,994][train][INFO] - HIT@5: 0.0193|  NDCG@5: 0.0109| HIT@10: 0.0493|  NDCG@10: 0.0205| HIT@20: 0.1190|  NDCG@20: 0.0379
+[2024-03-11 20:08:46,995][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:08:50,984][train][INFO] - epoch: 214 || adv_avg_loss: 0.1557 |cl_avg_loss: 2.4242 | tot_avg_loss: 0.3981 |
+[2024-03-11 20:08:56,961][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:08:56,962][train][INFO] - HIT@5: 0.0199|  NDCG@5: 0.0112| HIT@10: 0.0494|  NDCG@10: 0.0206| HIT@20: 0.1188|  NDCG@20: 0.0378
+[2024-03-11 20:08:56,962][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:09:00,975][train][INFO] - epoch: 215 || adv_avg_loss: 0.1537 |cl_avg_loss: 2.3915 | tot_avg_loss: 0.3929 |
+[2024-03-11 20:09:06,856][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:09:06,856][train][INFO] - HIT@5: 0.0196|  NDCG@5: 0.0113| HIT@10: 0.0500|  NDCG@10: 0.0210| HIT@20: 0.1191|  NDCG@20: 0.0382
+[2024-03-11 20:09:06,856][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:09:10,845][train][INFO] - epoch: 216 || adv_avg_loss: 0.1550 |cl_avg_loss: 2.4133 | tot_avg_loss: 0.3963 |
+[2024-03-11 20:09:16,843][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:09:16,843][train][INFO] - HIT@5: 0.0214|  NDCG@5: 0.0118| HIT@10: 0.0496|  NDCG@10: 0.0207| HIT@20: 0.1195|  NDCG@20: 0.0381
+[2024-03-11 20:09:16,843][train][INFO] - current early stop cnter: 4
+[2024-03-11 20:09:20,830][train][INFO] - epoch: 217 || adv_avg_loss: 0.1531 |cl_avg_loss: 2.4030 | tot_avg_loss: 0.3934 |
+[2024-03-11 20:09:26,789][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:09:26,789][train][INFO] - HIT@5: 0.0195|  NDCG@5: 0.0107| HIT@10: 0.0488|  NDCG@10: 0.0199| HIT@20: 0.1182|  NDCG@20: 0.0372
+[2024-03-11 20:09:26,789][train][INFO] - current early stop cnter: 5
+[2024-03-11 20:09:30,798][train][INFO] - epoch: 218 || adv_avg_loss: 0.1547 |cl_avg_loss: 2.4284 | tot_avg_loss: 0.3976 |
+[2024-03-11 20:09:36,694][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:09:36,694][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0114| HIT@10: 0.0495|  NDCG@10: 0.0207| HIT@20: 0.1206|  NDCG@20: 0.0385
+[2024-03-11 20:09:36,697][train][INFO] - current early stop cnter: 6
+[2024-03-11 20:09:40,681][train][INFO] - epoch: 219 || adv_avg_loss: 0.1530 |cl_avg_loss: 2.4228 | tot_avg_loss: 0.3952 |
+[2024-03-11 20:09:46,630][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:09:46,630][train][INFO] - HIT@5: 0.0192|  NDCG@5: 0.0106| HIT@10: 0.0493|  NDCG@10: 0.0202| HIT@20: 0.1207|  NDCG@20: 0.0379
+[2024-03-11 20:09:46,630][train][INFO] - current early stop cnter: 7
+[2024-03-11 20:09:50,637][train][INFO] - epoch: 220 || adv_avg_loss: 0.1534 |cl_avg_loss: 2.3864 | tot_avg_loss: 0.3921 |
+[2024-03-11 20:09:56,555][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:09:56,555][train][INFO] - HIT@5: 0.0193|  NDCG@5: 0.0107| HIT@10: 0.0489|  NDCG@10: 0.0201| HIT@20: 0.1204|  NDCG@20: 0.0379
+[2024-03-11 20:09:56,555][train][INFO] - current early stop cnter: 8
+[2024-03-11 20:10:00,523][train][INFO] - epoch: 221 || adv_avg_loss: 0.1527 |cl_avg_loss: 2.4289 | tot_avg_loss: 0.3956 |
+[2024-03-11 20:10:06,392][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:10:06,392][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0111| HIT@10: 0.0492|  NDCG@10: 0.0203| HIT@20: 0.1221|  NDCG@20: 0.0384
+[2024-03-11 20:10:06,392][train][INFO] - current early stop cnter: 9
+[2024-03-11 20:10:10,379][train][INFO] - epoch: 222 || adv_avg_loss: 0.1513 |cl_avg_loss: 2.4032 | tot_avg_loss: 0.3916 |
+[2024-03-11 20:10:16,300][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:10:16,300][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0111| HIT@10: 0.0519|  NDCG@10: 0.0212| HIT@20: 0.1216|  NDCG@20: 0.0385
+[2024-03-11 20:10:16,301][train][INFO] - current early stop cnter: 10
+[2024-03-11 20:10:20,282][train][INFO] - epoch: 223 || adv_avg_loss: 0.1505 |cl_avg_loss: 2.3847 | tot_avg_loss: 0.3889 |
+[2024-03-11 20:10:26,304][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:10:26,304][train][INFO] - HIT@5: 0.0201|  NDCG@5: 0.0110| HIT@10: 0.0494|  NDCG@10: 0.0203| HIT@20: 0.1222|  NDCG@20: 0.0383
+[2024-03-11 20:10:26,304][train][INFO] - current early stop cnter: 11
+[2024-03-11 20:10:30,283][train][INFO] - epoch: 224 || adv_avg_loss: 0.1518 |cl_avg_loss: 2.4041 | tot_avg_loss: 0.3922 |
+[2024-03-11 20:10:36,273][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:10:36,273][train][INFO] - HIT@5: 0.0207|  NDCG@5: 0.0111| HIT@10: 0.0510|  NDCG@10: 0.0207| HIT@20: 0.1221|  NDCG@20: 0.0385
+[2024-03-11 20:10:36,273][train][INFO] - current early stop cnter: 12
+[2024-03-11 20:10:40,267][train][INFO] - epoch: 225 || adv_avg_loss: 0.1504 |cl_avg_loss: 2.4011 | tot_avg_loss: 0.3905 |
+[2024-03-11 20:10:46,174][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:10:46,174][train][INFO] - HIT@5: 0.0194|  NDCG@5: 0.0107| HIT@10: 0.0488|  NDCG@10: 0.0200| HIT@20: 0.1221|  NDCG@20: 0.0383
+[2024-03-11 20:10:46,176][train][INFO] - current early stop cnter: 13
+[2024-03-11 20:10:50,175][train][INFO] - epoch: 226 || adv_avg_loss: 0.1509 |cl_avg_loss: 2.3985 | tot_avg_loss: 0.3907 |
+[2024-03-11 20:10:56,176][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:10:56,176][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0108| HIT@10: 0.0491|  NDCG@10: 0.0200| HIT@20: 0.1211|  NDCG@20: 0.0379
+[2024-03-11 20:10:56,177][train][INFO] - current early stop cnter: 14
+[2024-03-11 20:11:00,147][train][INFO] - epoch: 227 || adv_avg_loss: 0.1512 |cl_avg_loss: 2.4228 | tot_avg_loss: 0.3934 |
+[2024-03-11 20:11:06,228][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:11:06,228][train][INFO] - HIT@5: 0.0211|  NDCG@5: 0.0117| HIT@10: 0.0503|  NDCG@10: 0.0209| HIT@20: 0.1216|  NDCG@20: 0.0386
+[2024-03-11 20:11:06,228][train][INFO] - current early stop cnter: 15
+[2024-03-11 20:11:10,202][train][INFO] - epoch: 228 || adv_avg_loss: 0.1482 |cl_avg_loss: 2.4231 | tot_avg_loss: 0.3905 |
+[2024-03-11 20:11:16,100][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:11:16,100][train][INFO] - HIT@5: 0.0200|  NDCG@5: 0.0106| HIT@10: 0.0501|  NDCG@10: 0.0202| HIT@20: 0.1198|  NDCG@20: 0.0376
+[2024-03-11 20:11:16,100][train][INFO] - current early stop cnter: 16
+[2024-03-11 20:11:20,079][train][INFO] - epoch: 229 || adv_avg_loss: 0.1501 |cl_avg_loss: 2.4123 | tot_avg_loss: 0.3914 |
+[2024-03-11 20:11:26,104][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:11:26,104][train][INFO] - HIT@5: 0.0199|  NDCG@5: 0.0108| HIT@10: 0.0507|  NDCG@10: 0.0206| HIT@20: 0.1211|  NDCG@20: 0.0381
+[2024-03-11 20:11:26,104][train][INFO] - current early stop cnter: 17
+[2024-03-11 20:11:30,130][train][INFO] - epoch: 230 || adv_avg_loss: 0.1487 |cl_avg_loss: 2.4082 | tot_avg_loss: 0.3895 |
+[2024-03-11 20:11:36,157][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:11:36,157][train][INFO] - HIT@5: 0.0198|  NDCG@5: 0.0109| HIT@10: 0.0499|  NDCG@10: 0.0205| HIT@20: 0.1206|  NDCG@20: 0.0381
+[2024-03-11 20:11:36,157][train][INFO] - current early stop cnter: 18
+[2024-03-11 20:11:40,136][train][INFO] - epoch: 231 || adv_avg_loss: 0.1477 |cl_avg_loss: 2.3933 | tot_avg_loss: 0.3871 |
+[2024-03-11 20:11:46,151][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:11:46,151][train][INFO] - HIT@5: 0.0198|  NDCG@5: 0.0107| HIT@10: 0.0500|  NDCG@10: 0.0203| HIT@20: 0.1206|  NDCG@20: 0.0379
+[2024-03-11 20:11:46,153][train][INFO] - current early stop cnter: 19
+[2024-03-11 20:11:50,137][train][INFO] - epoch: 232 || adv_avg_loss: 0.1463 |cl_avg_loss: 2.3523 | tot_avg_loss: 0.3815 |
+[2024-03-11 20:11:56,137][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:11:56,137][train][INFO] - HIT@5: 0.0200|  NDCG@5: 0.0112| HIT@10: 0.0489|  NDCG@10: 0.0204| HIT@20: 0.1220|  NDCG@20: 0.0385
+[2024-03-11 20:11:56,137][train][INFO] - current early stop cnter: 20
+[2024-03-11 20:12:00,115][train][INFO] - epoch: 233 || adv_avg_loss: 0.1464 |cl_avg_loss: 2.3719 | tot_avg_loss: 0.3836 |
+[2024-03-11 20:12:06,134][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:12:06,134][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0113| HIT@10: 0.0485|  NDCG@10: 0.0203| HIT@20: 0.1207|  NDCG@20: 0.0383
+[2024-03-11 20:12:06,134][train][INFO] - current early stop cnter: 21
+[2024-03-11 20:12:10,140][train][INFO] - epoch: 234 || adv_avg_loss: 0.1482 |cl_avg_loss: 2.4030 | tot_avg_loss: 0.3885 |
+[2024-03-11 20:12:16,070][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:12:16,070][train][INFO] - HIT@5: 0.0213|  NDCG@5: 0.0122| HIT@10: 0.0479|  NDCG@10: 0.0207| HIT@20: 0.1214|  NDCG@20: 0.0391
+[2024-03-11 20:12:16,078][train][INFO] - saving model after new best score: 0.0391
+[2024-03-11 20:12:20,087][train][INFO] - epoch: 235 || adv_avg_loss: 0.1479 |cl_avg_loss: 2.3760 | tot_avg_loss: 0.3855 |
+[2024-03-11 20:12:26,114][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:12:26,114][train][INFO] - HIT@5: 0.0199|  NDCG@5: 0.0109| HIT@10: 0.0499|  NDCG@10: 0.0204| HIT@20: 0.1213|  NDCG@20: 0.0383
+[2024-03-11 20:12:26,114][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:12:30,101][train][INFO] - epoch: 236 || adv_avg_loss: 0.1450 |cl_avg_loss: 2.3982 | tot_avg_loss: 0.3848 |
+[2024-03-11 20:12:36,090][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:12:36,090][train][INFO] - HIT@5: 0.0204|  NDCG@5: 0.0114| HIT@10: 0.0500|  NDCG@10: 0.0209| HIT@20: 0.1224|  NDCG@20: 0.0389
+[2024-03-11 20:12:36,092][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:12:40,075][train][INFO] - epoch: 237 || adv_avg_loss: 0.1468 |cl_avg_loss: 2.4154 | tot_avg_loss: 0.3884 |
+[2024-03-11 20:12:46,055][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:12:46,055][train][INFO] - HIT@5: 0.0214|  NDCG@5: 0.0117| HIT@10: 0.0521|  NDCG@10: 0.0214| HIT@20: 0.1220|  NDCG@20: 0.0389
+[2024-03-11 20:12:46,055][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:12:50,064][train][INFO] - epoch: 238 || adv_avg_loss: 0.1443 |cl_avg_loss: 2.3940 | tot_avg_loss: 0.3837 |
+[2024-03-11 20:12:55,989][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:12:55,989][train][INFO] - HIT@5: 0.0210|  NDCG@5: 0.0115| HIT@10: 0.0503|  NDCG@10: 0.0208| HIT@20: 0.1221|  NDCG@20: 0.0387
+[2024-03-11 20:12:55,989][train][INFO] - current early stop cnter: 4
+[2024-03-11 20:12:59,971][train][INFO] - epoch: 239 || adv_avg_loss: 0.1431 |cl_avg_loss: 2.3795 | tot_avg_loss: 0.3811 |
+[2024-03-11 20:13:06,034][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:13:06,034][train][INFO] - HIT@5: 0.0190|  NDCG@5: 0.0106| HIT@10: 0.0480|  NDCG@10: 0.0198| HIT@20: 0.1217|  NDCG@20: 0.0381
+[2024-03-11 20:13:06,036][train][INFO] - current early stop cnter: 5
+[2024-03-11 20:13:10,037][train][INFO] - epoch: 240 || adv_avg_loss: 0.1437 |cl_avg_loss: 2.3754 | tot_avg_loss: 0.3812 |
+[2024-03-11 20:13:15,960][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:13:15,960][train][INFO] - HIT@5: 0.0205|  NDCG@5: 0.0112| HIT@10: 0.0485|  NDCG@10: 0.0201| HIT@20: 0.1205|  NDCG@20: 0.0381
+[2024-03-11 20:13:15,960][train][INFO] - current early stop cnter: 6
+[2024-03-11 20:13:19,937][train][INFO] - epoch: 241 || adv_avg_loss: 0.1443 |cl_avg_loss: 2.3545 | tot_avg_loss: 0.3798 |
+[2024-03-11 20:13:25,872][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:13:25,872][train][INFO] - HIT@5: 0.0208|  NDCG@5: 0.0116| HIT@10: 0.0501|  NDCG@10: 0.0209| HIT@20: 0.1221|  NDCG@20: 0.0388
+[2024-03-11 20:13:25,872][train][INFO] - current early stop cnter: 7
+[2024-03-11 20:13:29,875][train][INFO] - epoch: 242 || adv_avg_loss: 0.1443 |cl_avg_loss: 2.3717 | tot_avg_loss: 0.3815 |
+[2024-03-11 20:13:35,837][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:13:35,837][train][INFO] - HIT@5: 0.0195|  NDCG@5: 0.0105| HIT@10: 0.0493|  NDCG@10: 0.0200| HIT@20: 0.1223|  NDCG@20: 0.0381
+[2024-03-11 20:13:35,837][train][INFO] - current early stop cnter: 8
+[2024-03-11 20:13:39,814][train][INFO] - epoch: 243 || adv_avg_loss: 0.1440 |cl_avg_loss: 2.3730 | tot_avg_loss: 0.3813 |
+[2024-03-11 20:13:45,797][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:13:45,797][train][INFO] - HIT@5: 0.0205|  NDCG@5: 0.0113| HIT@10: 0.0497|  NDCG@10: 0.0206| HIT@20: 0.1218|  NDCG@20: 0.0386
+[2024-03-11 20:13:45,797][train][INFO] - current early stop cnter: 9
+[2024-03-11 20:13:49,774][train][INFO] - epoch: 244 || adv_avg_loss: 0.1427 |cl_avg_loss: 2.4006 | tot_avg_loss: 0.3827 |
+[2024-03-11 20:13:55,695][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:13:55,695][train][INFO] - HIT@5: 0.0208|  NDCG@5: 0.0115| HIT@10: 0.0513|  NDCG@10: 0.0211| HIT@20: 0.1227|  NDCG@20: 0.0390
+[2024-03-11 20:13:55,695][train][INFO] - current early stop cnter: 10
+[2024-03-11 20:13:59,684][train][INFO] - epoch: 245 || adv_avg_loss: 0.1420 |cl_avg_loss: 2.3790 | tot_avg_loss: 0.3799 |
+[2024-03-11 20:14:05,665][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:14:05,665][train][INFO] - HIT@5: 0.0194|  NDCG@5: 0.0105| HIT@10: 0.0493|  NDCG@10: 0.0199| HIT@20: 0.1216|  NDCG@20: 0.0379
+[2024-03-11 20:14:05,665][train][INFO] - current early stop cnter: 11
+[2024-03-11 20:14:09,672][train][INFO] - epoch: 246 || adv_avg_loss: 0.1436 |cl_avg_loss: 2.3881 | tot_avg_loss: 0.3824 |
+[2024-03-11 20:14:15,598][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:14:15,599][train][INFO] - HIT@5: 0.0208|  NDCG@5: 0.0113| HIT@10: 0.0504|  NDCG@10: 0.0207| HIT@20: 0.1223|  NDCG@20: 0.0386
+[2024-03-11 20:14:15,599][train][INFO] - current early stop cnter: 12
+[2024-03-11 20:14:19,576][train][INFO] - epoch: 247 || adv_avg_loss: 0.1427 |cl_avg_loss: 2.3497 | tot_avg_loss: 0.3776 |
+[2024-03-11 20:14:25,522][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:14:25,522][train][INFO] - HIT@5: 0.0226|  NDCG@5: 0.0127| HIT@10: 0.0528|  NDCG@10: 0.0223| HIT@20: 0.1242|  NDCG@20: 0.0401
+[2024-03-11 20:14:25,530][train][INFO] - saving model after new best score: 0.0401
+[2024-03-11 20:14:29,507][train][INFO] - epoch: 248 || adv_avg_loss: 0.1427 |cl_avg_loss: 2.3635 | tot_avg_loss: 0.3791 |
+[2024-03-11 20:14:35,492][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:14:35,492][train][INFO] - HIT@5: 0.0206|  NDCG@5: 0.0115| HIT@10: 0.0505|  NDCG@10: 0.0211| HIT@20: 0.1224|  NDCG@20: 0.0390
+[2024-03-11 20:14:35,495][train][INFO] - current early stop cnter: 1
+[2024-03-11 20:14:39,470][train][INFO] - epoch: 249 || adv_avg_loss: 0.1409 |cl_avg_loss: 2.3980 | tot_avg_loss: 0.3807 |
+[2024-03-11 20:14:45,472][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:14:45,472][train][INFO] - HIT@5: 0.0209|  NDCG@5: 0.0115| HIT@10: 0.0504|  NDCG@10: 0.0208| HIT@20: 0.1204|  NDCG@20: 0.0383
+[2024-03-11 20:14:45,472][train][INFO] - current early stop cnter: 2
+[2024-03-11 20:14:49,473][train][INFO] - epoch: 250 || adv_avg_loss: 0.1406 |cl_avg_loss: 2.3706 | tot_avg_loss: 0.3776 |
+[2024-03-11 20:14:55,393][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:14:55,393][train][INFO] - HIT@5: 0.0214|  NDCG@5: 0.0119| HIT@10: 0.0498|  NDCG@10: 0.0209| HIT@20: 0.1219|  NDCG@20: 0.0388
+[2024-03-11 20:14:55,393][train][INFO] - current early stop cnter: 3
+[2024-03-11 20:14:59,367][train][INFO] - epoch: 251 || adv_avg_loss: 0.1425 |cl_avg_loss: 2.3502 | tot_avg_loss: 0.3775 |
+[2024-03-11 20:15:05,348][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:15:05,348][train][INFO] - HIT@5: 0.0207|  NDCG@5: 0.0118| HIT@10: 0.0487|  NDCG@10: 0.0207| HIT@20: 0.1210|  NDCG@20: 0.0387
+[2024-03-11 20:15:05,348][train][INFO] - current early stop cnter: 4
+[2024-03-11 20:15:09,351][train][INFO] - epoch: 252 || adv_avg_loss: 0.1409 |cl_avg_loss: 2.3969 | tot_avg_loss: 0.3806 |
+[2024-03-11 20:15:15,397][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:15:15,397][train][INFO] - HIT@5: 0.0206|  NDCG@5: 0.0114| HIT@10: 0.0519|  NDCG@10: 0.0213| HIT@20: 0.1210|  NDCG@20: 0.0385
+[2024-03-11 20:15:15,397][train][INFO] - current early stop cnter: 5
+[2024-03-11 20:15:19,372][train][INFO] - epoch: 253 || adv_avg_loss: 0.1401 |cl_avg_loss: 2.3535 | tot_avg_loss: 0.3754 |
+[2024-03-11 20:15:25,338][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:15:25,338][train][INFO] - HIT@5: 0.0219|  NDCG@5: 0.0121| HIT@10: 0.0507|  NDCG@10: 0.0212| HIT@20: 0.1211|  NDCG@20: 0.0388
+[2024-03-11 20:15:25,338][train][INFO] - current early stop cnter: 6
+[2024-03-11 20:15:29,316][train][INFO] - epoch: 254 || adv_avg_loss: 0.1408 |cl_avg_loss: 2.3407 | tot_avg_loss: 0.3749 |
+[2024-03-11 20:15:35,282][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:15:35,282][train][INFO] - HIT@5: 0.0211|  NDCG@5: 0.0115| HIT@10: 0.0506|  NDCG@10: 0.0209| HIT@20: 0.1217|  NDCG@20: 0.0386
+[2024-03-11 20:15:35,282][train][INFO] - current early stop cnter: 7
+[2024-03-11 20:15:39,266][train][INFO] - epoch: 255 || adv_avg_loss: 0.1395 |cl_avg_loss: 2.3688 | tot_avg_loss: 0.3764 |
+[2024-03-11 20:15:45,187][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:15:45,188][train][INFO] - HIT@5: 0.0204|  NDCG@5: 0.0112| HIT@10: 0.0504|  NDCG@10: 0.0207| HIT@20: 0.1221|  NDCG@20: 0.0386
+[2024-03-11 20:15:45,188][train][INFO] - current early stop cnter: 8
+[2024-03-11 20:15:49,182][train][INFO] - epoch: 256 || adv_avg_loss: 0.1395 |cl_avg_loss: 2.3660 | tot_avg_loss: 0.3761 |
+[2024-03-11 20:15:55,131][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:15:55,131][train][INFO] - HIT@5: 0.0190|  NDCG@5: 0.0103| HIT@10: 0.0515|  NDCG@10: 0.0206| HIT@20: 0.1213|  NDCG@20: 0.0380
+[2024-03-11 20:15:55,131][train][INFO] - current early stop cnter: 9
+[2024-03-11 20:15:59,106][train][INFO] - epoch: 257 || adv_avg_loss: 0.1393 |cl_avg_loss: 2.3443 | tot_avg_loss: 0.3737 |
+[2024-03-11 20:16:05,083][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:16:05,083][train][INFO] - HIT@5: 0.0193|  NDCG@5: 0.0108| HIT@10: 0.0493|  NDCG@10: 0.0204| HIT@20: 0.1209|  NDCG@20: 0.0383
+[2024-03-11 20:16:05,086][train][INFO] - current early stop cnter: 10
+[2024-03-11 20:16:09,066][train][INFO] - epoch: 258 || adv_avg_loss: 0.1393 |cl_avg_loss: 2.3483 | tot_avg_loss: 0.3741 |
+[2024-03-11 20:16:15,071][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:16:15,071][train][INFO] - HIT@5: 0.0200|  NDCG@5: 0.0111| HIT@10: 0.0508|  NDCG@10: 0.0209| HIT@20: 0.1215|  NDCG@20: 0.0384
+[2024-03-11 20:16:15,071][train][INFO] - current early stop cnter: 11
+[2024-03-11 20:16:19,050][train][INFO] - epoch: 259 || adv_avg_loss: 0.1386 |cl_avg_loss: 2.3678 | tot_avg_loss: 0.3753 |
+[2024-03-11 20:16:24,972][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:16:24,972][train][INFO] - HIT@5: 0.0209|  NDCG@5: 0.0114| HIT@10: 0.0512|  NDCG@10: 0.0211| HIT@20: 0.1222|  NDCG@20: 0.0388
+[2024-03-11 20:16:24,974][train][INFO] - current early stop cnter: 12
+[2024-03-11 20:16:28,995][train][INFO] - epoch: 260 || adv_avg_loss: 0.1390 |cl_avg_loss: 2.3415 | tot_avg_loss: 0.3731 |
+[2024-03-11 20:16:34,995][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:16:34,995][train][INFO] - HIT@5: 0.0201|  NDCG@5: 0.0110| HIT@10: 0.0490|  NDCG@10: 0.0201| HIT@20: 0.1216|  NDCG@20: 0.0382
+[2024-03-11 20:16:34,995][train][INFO] - current early stop cnter: 13
+[2024-03-11 20:16:38,970][train][INFO] - epoch: 261 || adv_avg_loss: 0.1379 |cl_avg_loss: 2.3728 | tot_avg_loss: 0.3751 |
+[2024-03-11 20:16:44,965][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:16:44,965][train][INFO] - HIT@5: 0.0196|  NDCG@5: 0.0105| HIT@10: 0.0498|  NDCG@10: 0.0201| HIT@20: 0.1212|  NDCG@20: 0.0379
+[2024-03-11 20:16:44,965][train][INFO] - current early stop cnter: 14
+[2024-03-11 20:16:48,941][train][INFO] - epoch: 262 || adv_avg_loss: 0.1395 |cl_avg_loss: 2.3575 | tot_avg_loss: 0.3753 |
+[2024-03-11 20:16:54,912][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:16:54,912][train][INFO] - HIT@5: 0.0200|  NDCG@5: 0.0110| HIT@10: 0.0511|  NDCG@10: 0.0209| HIT@20: 0.1225|  NDCG@20: 0.0386
+[2024-03-11 20:16:54,912][train][INFO] - current early stop cnter: 15
+[2024-03-11 20:16:58,896][train][INFO] - epoch: 263 || adv_avg_loss: 0.1367 |cl_avg_loss: 2.3403 | tot_avg_loss: 0.3708 |
+[2024-03-11 20:17:04,842][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:17:04,842][train][INFO] - HIT@5: 0.0204|  NDCG@5: 0.0112| HIT@10: 0.0514|  NDCG@10: 0.0210| HIT@20: 0.1227|  NDCG@20: 0.0387
+[2024-03-11 20:17:04,843][train][INFO] - current early stop cnter: 16
+[2024-03-11 20:17:08,841][train][INFO] - epoch: 264 || adv_avg_loss: 0.1378 |cl_avg_loss: 2.3343 | tot_avg_loss: 0.3713 |
+[2024-03-11 20:17:14,794][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:17:14,794][train][INFO] - HIT@5: 0.0212|  NDCG@5: 0.0116| HIT@10: 0.0515|  NDCG@10: 0.0213| HIT@20: 0.1227|  NDCG@20: 0.0390
+[2024-03-11 20:17:14,794][train][INFO] - current early stop cnter: 17
+[2024-03-11 20:17:18,795][train][INFO] - epoch: 265 || adv_avg_loss: 0.1374 |cl_avg_loss: 2.3720 | tot_avg_loss: 0.3746 |
+[2024-03-11 20:17:24,871][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:17:24,872][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0112| HIT@10: 0.0492|  NDCG@10: 0.0204| HIT@20: 0.1223|  NDCG@20: 0.0387
+[2024-03-11 20:17:24,872][train][INFO] - current early stop cnter: 18
+[2024-03-11 20:17:28,853][train][INFO] - epoch: 266 || adv_avg_loss: 0.1365 |cl_avg_loss: 2.3772 | tot_avg_loss: 0.3742 |
+[2024-03-11 20:17:34,828][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:17:34,828][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0112| HIT@10: 0.0510|  NDCG@10: 0.0210| HIT@20: 0.1243|  NDCG@20: 0.0392
+[2024-03-11 20:17:34,828][train][INFO] - current early stop cnter: 19
+[2024-03-11 20:17:38,813][train][INFO] - epoch: 267 || adv_avg_loss: 0.1370 |cl_avg_loss: 2.3438 | tot_avg_loss: 0.3713 |
+[2024-03-11 20:17:44,752][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:17:44,752][train][INFO] - HIT@5: 0.0222|  NDCG@5: 0.0122| HIT@10: 0.0529|  NDCG@10: 0.0219| HIT@20: 0.1244|  NDCG@20: 0.0398
+[2024-03-11 20:17:44,752][train][INFO] - current early stop cnter: 20
+[2024-03-11 20:17:48,756][train][INFO] - epoch: 268 || adv_avg_loss: 0.1367 |cl_avg_loss: 2.3590 | tot_avg_loss: 0.3726 |
+[2024-03-11 20:17:54,822][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:17:54,822][train][INFO] - HIT@5: 0.0212|  NDCG@5: 0.0117| HIT@10: 0.0516|  NDCG@10: 0.0213| HIT@20: 0.1241|  NDCG@20: 0.0394
+[2024-03-11 20:17:54,822][train][INFO] - current early stop cnter: 21
+[2024-03-11 20:17:58,790][train][INFO] - epoch: 269 || adv_avg_loss: 0.1363 |cl_avg_loss: 2.3430 | tot_avg_loss: 0.3705 |
+[2024-03-11 20:18:04,726][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:18:04,726][train][INFO] - HIT@5: 0.0209|  NDCG@5: 0.0115| HIT@10: 0.0513|  NDCG@10: 0.0212| HIT@20: 0.1235|  NDCG@20: 0.0391
+[2024-03-11 20:18:04,727][train][INFO] - current early stop cnter: 22
+[2024-03-11 20:18:08,719][train][INFO] - epoch: 270 || adv_avg_loss: 0.1355 |cl_avg_loss: 2.3544 | tot_avg_loss: 0.3710 |
+[2024-03-11 20:18:14,758][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:18:14,758][train][INFO] - HIT@5: 0.0207|  NDCG@5: 0.0113| HIT@10: 0.0518|  NDCG@10: 0.0212| HIT@20: 0.1234|  NDCG@20: 0.0390
+[2024-03-11 20:18:14,758][train][INFO] - current early stop cnter: 23
+[2024-03-11 20:18:18,723][train][INFO] - epoch: 271 || adv_avg_loss: 0.1352 |cl_avg_loss: 2.3750 | tot_avg_loss: 0.3727 |
+[2024-03-11 20:18:24,680][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:18:24,680][train][INFO] - HIT@5: 0.0199|  NDCG@5: 0.0109| HIT@10: 0.0499|  NDCG@10: 0.0204| HIT@20: 0.1234|  NDCG@20: 0.0387
+[2024-03-11 20:18:24,680][train][INFO] - current early stop cnter: 24
+[2024-03-11 20:18:28,674][train][INFO] - epoch: 272 || adv_avg_loss: 0.1347 |cl_avg_loss: 2.3335 | tot_avg_loss: 0.3680 |
+[2024-03-11 20:18:34,575][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:18:34,575][train][INFO] - HIT@5: 0.0197|  NDCG@5: 0.0107| HIT@10: 0.0491|  NDCG@10: 0.0201| HIT@20: 0.1214|  NDCG@20: 0.0382
+[2024-03-11 20:18:34,575][train][INFO] - current early stop cnter: 25
+[2024-03-11 20:18:38,535][train][INFO] - epoch: 273 || adv_avg_loss: 0.1361 |cl_avg_loss: 2.3633 | tot_avg_loss: 0.3724 |
+[2024-03-11 20:18:44,459][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:18:44,460][train][INFO] - HIT@5: 0.0214|  NDCG@5: 0.0121| HIT@10: 0.0515|  NDCG@10: 0.0216| HIT@20: 0.1241|  NDCG@20: 0.0397
+[2024-03-11 20:18:44,460][train][INFO] - current early stop cnter: 26
+[2024-03-11 20:18:48,427][train][INFO] - epoch: 274 || adv_avg_loss: 0.1346 |cl_avg_loss: 2.3431 | tot_avg_loss: 0.3689 |
+[2024-03-11 20:18:54,367][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:18:54,367][train][INFO] - HIT@5: 0.0216|  NDCG@5: 0.0123| HIT@10: 0.0514|  NDCG@10: 0.0218| HIT@20: 0.1241|  NDCG@20: 0.0399
+[2024-03-11 20:18:54,367][train][INFO] - current early stop cnter: 27
+[2024-03-11 20:18:58,353][train][INFO] - epoch: 275 || adv_avg_loss: 0.1335 |cl_avg_loss: 2.3159 | tot_avg_loss: 0.3651 |
+[2024-03-11 20:19:04,217][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:19:04,217][train][INFO] - HIT@5: 0.0216|  NDCG@5: 0.0123| HIT@10: 0.0514|  NDCG@10: 0.0217| HIT@20: 0.1242|  NDCG@20: 0.0398
+[2024-03-11 20:19:04,217][train][INFO] - current early stop cnter: 28
+[2024-03-11 20:19:08,205][train][INFO] - epoch: 276 || adv_avg_loss: 0.1334 |cl_avg_loss: 2.3301 | tot_avg_loss: 0.3664 |
+[2024-03-11 20:19:14,134][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:19:14,135][train][INFO] - HIT@5: 0.0199|  NDCG@5: 0.0108| HIT@10: 0.0495|  NDCG@10: 0.0201| HIT@20: 0.1233|  NDCG@20: 0.0386
+[2024-03-11 20:19:14,136][train][INFO] - current early stop cnter: 29
+[2024-03-11 20:19:18,103][train][INFO] - epoch: 277 || adv_avg_loss: 0.1318 |cl_avg_loss: 2.3515 | tot_avg_loss: 0.3670 |
+[2024-03-11 20:19:24,157][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:19:24,157][train][INFO] - HIT@5: 0.0210|  NDCG@5: 0.0114| HIT@10: 0.0506|  NDCG@10: 0.0208| HIT@20: 0.1226|  NDCG@20: 0.0387
+[2024-03-11 20:19:24,160][train][INFO] - current early stop cnter: 30
+[2024-03-11 20:19:28,136][train][INFO] - epoch: 278 || adv_avg_loss: 0.1334 |cl_avg_loss: 2.3362 | tot_avg_loss: 0.3670 |
+[2024-03-11 20:19:34,263][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:19:34,263][train][INFO] - HIT@5: 0.0207|  NDCG@5: 0.0116| HIT@10: 0.0520|  NDCG@10: 0.0216| HIT@20: 0.1237|  NDCG@20: 0.0394
+[2024-03-11 20:19:34,264][train][INFO] - current early stop cnter: 31
+[2024-03-11 20:19:38,236][train][INFO] - epoch: 279 || adv_avg_loss: 0.1333 |cl_avg_loss: 2.3357 | tot_avg_loss: 0.3669 |
+[2024-03-11 20:19:44,373][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:19:44,373][train][INFO] - HIT@5: 0.0192|  NDCG@5: 0.0105| HIT@10: 0.0483|  NDCG@10: 0.0197| HIT@20: 0.1235|  NDCG@20: 0.0384
+[2024-03-11 20:19:44,373][train][INFO] - current early stop cnter: 32
+[2024-03-11 20:19:48,380][train][INFO] - epoch: 280 || adv_avg_loss: 0.1323 |cl_avg_loss: 2.3486 | tot_avg_loss: 0.3671 |
+[2024-03-11 20:19:54,450][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:19:54,450][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0116| HIT@10: 0.0518|  NDCG@10: 0.0216| HIT@20: 0.1231|  NDCG@20: 0.0393
+[2024-03-11 20:19:54,451][train][INFO] - current early stop cnter: 33
+[2024-03-11 20:19:58,417][train][INFO] - epoch: 281 || adv_avg_loss: 0.1324 |cl_avg_loss: 2.2999 | tot_avg_loss: 0.3624 |
+[2024-03-11 20:20:04,381][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:20:04,381][train][INFO] - HIT@5: 0.0212|  NDCG@5: 0.0117| HIT@10: 0.0527|  NDCG@10: 0.0217| HIT@20: 0.1247|  NDCG@20: 0.0397
+[2024-03-11 20:20:04,381][train][INFO] - current early stop cnter: 34
+[2024-03-11 20:20:08,358][train][INFO] - epoch: 282 || adv_avg_loss: 0.1324 |cl_avg_loss: 2.3268 | tot_avg_loss: 0.3651 |
+[2024-03-11 20:20:14,340][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:20:14,340][train][INFO] - HIT@5: 0.0206|  NDCG@5: 0.0111| HIT@10: 0.0508|  NDCG@10: 0.0207| HIT@20: 0.1234|  NDCG@20: 0.0388
+[2024-03-11 20:20:14,341][train][INFO] - current early stop cnter: 35
+[2024-03-11 20:20:18,314][train][INFO] - epoch: 283 || adv_avg_loss: 0.1326 |cl_avg_loss: 2.3170 | tot_avg_loss: 0.3643 |
+[2024-03-11 20:20:24,467][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:20:24,468][train][INFO] - HIT@5: 0.0202|  NDCG@5: 0.0113| HIT@10: 0.0497|  NDCG@10: 0.0207| HIT@20: 0.1233|  NDCG@20: 0.0391
+[2024-03-11 20:20:24,470][train][INFO] - current early stop cnter: 36
+[2024-03-11 20:20:28,468][train][INFO] - epoch: 284 || adv_avg_loss: 0.1336 |cl_avg_loss: 2.3430 | tot_avg_loss: 0.3679 |
+[2024-03-11 20:20:34,469][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:20:34,469][train][INFO] - HIT@5: 0.0205|  NDCG@5: 0.0110| HIT@10: 0.0529|  NDCG@10: 0.0213| HIT@20: 0.1228|  NDCG@20: 0.0387
+[2024-03-11 20:20:34,469][train][INFO] - current early stop cnter: 37
+[2024-03-11 20:20:38,467][train][INFO] - epoch: 285 || adv_avg_loss: 0.1312 |cl_avg_loss: 2.3710 | tot_avg_loss: 0.3683 |
+[2024-03-11 20:20:44,555][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:20:44,555][train][INFO] - HIT@5: 0.0203|  NDCG@5: 0.0112| HIT@10: 0.0509|  NDCG@10: 0.0210| HIT@20: 0.1240|  NDCG@20: 0.0392
+[2024-03-11 20:20:44,557][train][INFO] - current early stop cnter: 38
+[2024-03-11 20:20:48,531][train][INFO] - epoch: 286 || adv_avg_loss: 0.1300 |cl_avg_loss: 2.3054 | tot_avg_loss: 0.3605 |
+[2024-03-11 20:20:54,496][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:20:54,496][train][INFO] - HIT@5: 0.0185|  NDCG@5: 0.0102| HIT@10: 0.0507|  NDCG@10: 0.0205| HIT@20: 0.1229|  NDCG@20: 0.0384
+[2024-03-11 20:20:54,496][train][INFO] - current early stop cnter: 39
+[2024-03-11 20:20:58,467][train][INFO] - epoch: 287 || adv_avg_loss: 0.1315 |cl_avg_loss: 2.3392 | tot_avg_loss: 0.3655 |
+[2024-03-11 20:21:04,506][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:21:04,506][train][INFO] - HIT@5: 0.0191|  NDCG@5: 0.0105| HIT@10: 0.0518|  NDCG@10: 0.0209| HIT@20: 0.1233|  NDCG@20: 0.0387
+[2024-03-11 20:21:04,506][train][INFO] - current early stop cnter: 40
+[2024-03-11 20:21:08,502][train][INFO] - epoch: 288 || adv_avg_loss: 0.1322 |cl_avg_loss: 2.3220 | tot_avg_loss: 0.3644 |
+[2024-03-11 20:21:14,545][train][INFO] - ---------valid result! ----------
+[2024-03-11 20:21:14,545][train][INFO] - HIT@5: 0.0210|  NDCG@5: 0.0118| HIT@10: 0.0514|  NDCG@10: 0.0215| HIT@20: 0.1241|  NDCG@20: 0.0396
+[2024-03-11 20:21:14,545][train][INFO] - current early stop cnter: 41
+[2024-03-11 20:21:20,608][train][INFO] - ---------test result! ----------
+[2024-03-11 20:21:20,608][train][INFO] - HIT@5: 0.0177|  NDCG@5: 0.0098| HIT@10: 0.0427|  NDCG@10: 0.0177| HIT@20: 0.0987|  NDCG@20: 0.0317

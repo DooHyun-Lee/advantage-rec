@@ -1,0 +1,30 @@
+data:
+  base_model_type: 'gpt2'
+  dataset_name: 'Beauty'
+  batch_size: 256
+  max_len: 50
+  tao: 0.2
+  gamma: 0.7
+  beta: 0.2
+  model_idx: 0
+
+model:
+  hidden_size: 64
+  max_seq_len: 50
+  hidden_dropout_prob: 0.5
+  attention_dropout_prob: 0.5
+  num_attention_heads: 2
+  num_hidden_layers: 2
+
+train:
+  device: 'cuda:1'
+  beta1: 0.9
+  beta2: 0.999
+  weight_decay: 0.0
+  epochs: 300
+  lr: 0.001
+  temperature: 1.0
+  adv_weight: 1.0
+  cl_weight: 0.1
+  early_stop: 40
+  save_path: './checkpoints'
